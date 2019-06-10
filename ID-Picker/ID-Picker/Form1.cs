@@ -7,7 +7,6 @@ namespace ID_Picker
 {
     public partial class Form1 : Form
     {
-        private Dictionary<string, string> monster = new Dictionary<string, string>();
         private int currentList = 0;
 
         public Form1()
