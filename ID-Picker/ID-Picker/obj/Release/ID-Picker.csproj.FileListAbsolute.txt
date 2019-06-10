@@ -8,3 +8,13 @@ C:\Users\Anwender\source\repos\ID-Picker\ID-Picker\obj\Release\ID-Picker.csproj.
 C:\Users\Anwender\source\repos\ID-Picker\ID-Picker\obj\Release\ID-Picker.csproj.CoreCompileInputs.cache
 C:\Users\Anwender\source\repos\ID-Picker\ID-Picker\obj\Release\ID-Picker.exe
 C:\Users\Anwender\source\repos\ID-Picker\ID-Picker\obj\Release\ID-Picker.pdb
+D:\Github\ID-Picker\ID-Picker\ID-Picker\bin\Release\ID-Picker.exe.config
+D:\Github\ID-Picker\ID-Picker\ID-Picker\bin\Release\ID-Picker.exe
+D:\Github\ID-Picker\ID-Picker\ID-Picker\bin\Release\ID-Picker.pdb
+D:\Github\ID-Picker\ID-Picker\ID-Picker\obj\Release\ID-Picker.csprojAssemblyReference.cache
+D:\Github\ID-Picker\ID-Picker\ID-Picker\obj\Release\ID_Picker.Form1.resources
+D:\Github\ID-Picker\ID-Picker\ID-Picker\obj\Release\ID_Picker.Properties.Resources.resources
+D:\Github\ID-Picker\ID-Picker\ID-Picker\obj\Release\ID-Picker.csproj.GenerateResource.cache
+D:\Github\ID-Picker\ID-Picker\ID-Picker\obj\Release\ID-Picker.csproj.CoreCompileInputs.cache
+D:\Github\ID-Picker\ID-Picker\ID-Picker\obj\Release\ID-Picker.exe
+D:\Github\ID-Picker\ID-Picker\ID-Picker\obj\Release\ID-Picker.pdb

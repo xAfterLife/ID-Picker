@@ -309,5 +309,13 @@ namespace ID_Picker
             }
             return "";
         }
+
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            int index = dataGridView1.SelectedCells[0].RowIndex;
+            dataGridView1.ClearSelection();
+            dataGridView1.Rows[index].Selected = true;
+            dataGridView1.Update();
+        }
     }
 }
