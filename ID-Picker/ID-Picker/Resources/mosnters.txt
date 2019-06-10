@@ -1,0 +1,1777 @@
+0	Kleiner Fuchs
+1	Fuchs
+2	Großer Fuchs
+3	Müder Dusifuchs
+4	Dusifuchs
+5	Nervöser Dusifuchs
+6	Glücklicher Otofuchs
+7	Otofuchs
+8	Wütender Otofuchs
+9	Glückliches Wollie
+10	Wollie
+11	Wütendes Wollie
+12	Kleiner Mufflon
+13	Mufflon
+14	Großer Mufflon
+15	Müder Widder
+16	Widder
+17	Nervöser Widder
+18	Glückliches Mandra
+19	Mandra
+20	Wütendes Mandra
+21	Schwaches Grasmandra
+22	Grasmandra
+23	Starkes Grasmandra
+24	Kleiner Dander
+25	Dander
+26	Großer Dander
+27	Schwacher Giftdander
+28	Giftdander
+29	Starker Giftdander
+30	Schwaches Seedle
+31	Seedle
+32	Starkes Seedle
+33	Leichtes Feuerseedle
+34	Feuerseedle
+35	Schweres Feuerseedle
+36	Weiches Pii
+37	Pii
+38	Hartes Pii
+39	Kleines Wildpii
+40	Wildpii
+41	Großes Wildpii
+42	Faules Dornenpii
+43	Dornenpii
+44	Schnelles Dornenpii
+45	Weiche Pii-Schote
+46	Pii-Schote
+47	Harte Pii-Schote
+48	Kleine Wildpii-Schote
+49	Wildpii-Schote
+50	Große Wildpii-Schote
+51	Faule Dornenpii-Schote
+52	Dornenpii-Schote
+53	Schnelle Dornenpii-Schote
+54	Schwacher Vampie
+55	Vampie
+56	Starker Vampie
+57	Schwacher Feuervampie
+58	Feuervampie
+59	Starker Feuervampie
+60	Schwacher Teufelsvampie
+61	Teufelsvampie
+62	Starker Teufelsvampie
+63	Müder Walker
+64	Walker
+65	Nervöser Walker
+66	Müder Thornwalker
+67	Thornwalker
+68	Nervöser Thornwalker
+69	Müder Stonewalker
+70	Stonewalker
+71	Nervöser Stonewalker
+72	Kleiner Imp
+73	Imp
+74	Großer Imp
+75	Glücklicher Hornimp
+76	Hornimp
+77	Wütender Hornimp
+78	Kleiner Teufelsimp
+79	Großer Teufelsimp
+80	Teufelsimp
+81	Müdes rosa Jelly
+82	Rosa Jelly
+83	Nervöses rosa Jelly
+84	Müdes rotes Jelly
+85	Rotes Jelly
+86	Nervöses rotes Jelly
+87	Müdes dunkles Jelly
+88	Nervöses dunkles Jelly
+89	Dunkles Jelly
+90	Schwacher Gargs
+91	Gargs
+92	Starker Gargs
+93	Verrückter Gargs
+94	Wahnsinniger Gargs
+95	Psychotischer Gargs
+96	Glücklicher Hamster
+97	Hamster
+98	Wütender Hamster
+99	Schwacher Gifthamster
+100	Gifthamster
+101	Starker Gifthamster
+102	Kleiner Stahlhamster
+103	Stahlhamster
+104	Großer Stahlhamster
+105	Glücklicher Bergmann
+106	Bergmann
+107	Wütender Bergmann
+108	Schwacher Expy-Bergmann
+109	Expy-Bergmann
+110	Starker Expy-Bergmann
+111	Müder Ober-Bergmann
+112	Ober-Bergmann
+113	Nervöser Ober-Bergmann
+114	Schwertkampfschüler der Koaren
+115	Koarenschwertkämpfer
+116	Eliteschwertkämpfer der Koaren
+117	Schützenschüler der Koaren
+118	Koarenschütze
+119	Eliteschütze der Koaren
+120	Schüler der Koarenkrieger
+121	Koarenkrieger
+122	Elitekrieger der Koaren
+123	NotUse
+124	NotUse
+125	NotUse
+126	NotUse
+127	Brutaler Teufelsimp
+128	Mandra-Attrappe
+129	Brutaler Vampie
+130	Vampie
+131	Schwacher Walker
+132	Flamme
+133	Wütende Flamme
+134	Warepard
+135	Schattenwarepard
+136	Boing
+137	Harter Boing
+138	Kleiner Morgensternboing
+139	Morgensternboing
+140	Kleiner Mimic
+141	Mimic
+142	Großer Mimic
+143	Morgensternmimic
+144	Wütender Morgensternmimic
+145	Schwertkampfschüler der Kenkos
+146	Kenko Schwertkämpfer
+147	Eliteschwertkämpfer der Kenkos
+148	Speerkampfschüler der Kenkos
+149	Kenkospeerkämpfer
+150	Elitespeerkämpfer der Kenkos
+151	Räuberschüler der Kenkos
+152	Kenkoräuber
+153	Eliteräuber der Kenkos
+154	Lanetan
+155	Fernon-Dryade
+156	Braunes Buschi
+157	Gladiator Buschi
+158	Kammerjäger Buschi
+159	Krankes Buschi
+160	Starker Buschi-Trainer
+161	Riesiges Mandra
+162	Rasendes Mandra
+163	Soldatenspinne
+164	Slade
+165	Slade-Priester
+166	Versteinerter Slade
+167	Schwaches rotes Jelly
+168	Unsichtbares Jelly
+169	Schwaches rosa Jelly
+170	Schwaches dunkles Jelly
+171	Schwarzer Spinnenkönig
+172	Schwacher Stachelboing
+173	Starker Stachelboing
+174	Schwacher Ufoboing
+175	Starker Ufoboing
+176	Santa Buschi
+177	Wollet
+178	Neujahrsglücksschwein
+179	Kleine Erdechse
+180	Grüne Riesenerdechse
+181	Dicke Taube
+182	Schwacher Waschbärvogel
+183	Starker Waschbärvogel
+184	Steinhammer-Stumpf
+185	Stahlhammer-Stumpf
+186	Steinaxt-Stumpf
+187	Stahlaxt-Stumpf
+188	Starker Baumzombie
+189	Wütender Baumzombie
+190	Ahornseele
+191	Ahornteufel
+192	Zahnradboing A
+193	Zahnradboing B
+194	Teufel der Unterwelt
+195	Trainingspfahl
+196	Gruselschraube (Tor 1)
+197	Feuerslade
+198	Blutegel
+199	Maulwurf
+200	Wolf
+201	Brutaler Wolf
+202	Wolfslöwe
+203	Brutaler Wolfslöwe
+204	Schwein
+205	Starkes Schwein
+206	Bergschildkröte
+207	Felsschildkröte
+208	Wütender Bienenstock
+209	Gefährlicher Bienenstock
+210	Wütender Bienenschwarm
+211	Gefährlicher Bienenschwarm
+212	Wütende Bienenkönigin
+213	Gefährliche Bienenkönigin
+214	Schwache Spinne
+215	Spinne
+216	Starke Spinne
+217	Kleine Giftspinne
+218	Giftspinne
+219	Große Giftspinne
+220	Schwacher Spinnenkönig
+221	Spinnenkönig
+222	Starker Spinnenkönig
+223	Kleine Wespe
+224	Wespe
+225	Große Wespe
+226	Wiggy Wiggler
+227	Wiggler
+228	Wütender Wiggler
+229	Kleiner Wiggler
+230	Kleiner Wiggler
+231	Kleiner Wiggler
+232	Kranker Puster
+233	Puster
+234	Wütender Puster
+235	Schwacher Skelettkrieger
+236	Skelettkrieger
+237	Starker Skelettkrieger
+238	Schwacher Schädel
+239	Schwacher Schädel
+240	Schwacher Schädel
+241	Schwacher Lavagolem
+242	Lavagolem
+243	Starker Lavagolem
+244	Alter Nachtschatten
+245	Nachtschatten
+246	Uralter Nachtschatten
+247	Schwache Dunkelhexe
+248	Dunkelhexe
+249	Bluthexe
+250	Starke Bluthexe
+251	Schwache Todeshexe
+252	Todeshexe
+253	Hässlicher Speerkämpfer
+254	Grauenhafter Speerkämpfer
+255	Erboster Schädel
+256	Verfluchter Schädel
+257	Wütender Schädel
+258	Schwacher Schädel
+259	Schwacher Schädel
+260	Schwacher Schädel
+261	Wütender Lavagolem
+262	Brutaler Lavagolem
+263	Trauriger Nachtschatten
+264	Melancholischer Nachtschatten
+265	Brutaler Puster
+266	Kukukeen
+267	Starke Dunkelhexe
+268	Starke Todeshexe
+269	Gewaltiger Kenko-Schläger
+270	Kraftloser Walker
+271	Dunkler Gargs
+272	Totenkopfbogenschütze
+273	Verhexter Totenkopfbogenschütze
+274	Totenkopfkrieger
+275	Verhexter Totenkopfkrieger
+276	Staubkönig
+277	Mächtiger Staubkönig
+278	Wütende Eisfee
+279	Brutale Eisfee
+280	Kleines rotes Jelly
+281	Kraftloser Staubkönig
+282	Cuby Mutter
+283	Cuby
+284	Ginseng
+285	Dark Castra
+286	Riesenslade
+287	NotUse
+288	Grauenhafter Dämon
+289	Schwarze Riesenspinne
+290	Ginsengpflänzchen
+291	Ginsengtopf
+292	Große Erdechse
+293	Langbeinige Spinne
+294	Unsichtbarer Staubkönig
+295	Ausgemergelte Zombiewache
+296	Schlurfende Zombiewache
+297	Bucklige Zombiewache
+298	Abscheuliche Zombiewache
+299	Hagere Zombiewache
+300	Mimi Mentor
+301	Teoman Topp
+302	Calvin Coach
+303	Soraya Style
+304	Eva Energy
+305	Malcolm Mix
+306	Verwunderter Malcolm
+307	Korrkoaren
+308	NotUse
+309	Schwertimp
+310	Soldat der NosVille-Wache
+311	Lord Cuarrys Ritter
+312	Schütze der NosVille-Wache
+313	Erschöpfter Korrkoaren
+314	Korrkoaren
+315	Kenel
+316	Kenko-Schläger
+317	Bob
+318	Tom
+319	Kliff
+320	Soldat der NosVille-Wache
+321	Lord Cuarrys Ritter
+322	Schütze der NosVille-Wache
+323	Prinzessin Catlotte
+324	Prinzessin Catrisha
+325	Cenil
+326	Cenil
+327	Carven
+328	Teodor Topp
+329	Kenel
+330	Titus Trip
+331	Schluri
+332	Minenmanager
+333	Huhn
+334	Großes Huhn
+335	Prinzessin Catrisha
+336	Verwundete Wache
+337	Hauptmann der NosVille-Wache
+338	Ritter
+339	Hauptmann der Ritter
+340	Wütendes Huhn
+341	Hexenmeister
+342	Radal
+343	Rosendornhexe
+344	Mysteriöse Person
+345	Herumwandelnder Geist
+346	NotUse
+347	NotUse
+348	Lucia
+349	NotUse
+350	Wache Sam
+351	Wache Jim
+352	Minenmanager Mudog
+353	Minenmanager Krispo
+354	Captain Lance
+355	Jerico
+356	Commander Ray Ramos
+357	General der Ramosritter
+358	Hauptmann der Ramosritter
+359	Wache
+360	Murmelnder Bergmann
+361	Rumbler
+362	Rumblerkönig
+363	Stehender Glotzki
+364	Verzaubertes Schwert
+365	Verzauberter Bogen
+366	Verzauberter Morgenstern
+367	Zerrissene Kutte
+368	Schwache Mücke
+369	Dunkler Skorpion
+370	Wasser Grashüpfer
+371	Flammen Falter
+372	Helle Baumseele
+373	Dunkle Baumseele
+374	Kalte Baumseele
+375	Warme Baumseele
+376	Gefangene Seele
+377	Höllenhund
+378	Dämonendiener
+379	Ritter Pinto
+380	Gruselschraube (Tor 2)
+381	Gruselschraube (Tor 3)
+382	Baumstämme
+383	Eggy
+384	Hüpfendes Chicky
+385	Tanzendes Chicky
+386	Grimmiges Chicky
+387	Kampfhahn
+388	Huhnkönig
+389	Koarenspion
+390	Vogelei
+391	Fliegender Glotzki
+392	Häuptling der Koaren
+393	Colly
+394	Anni
+395	Doggo
+396	Erdwurm
+397	Terramonster
+398	Große Maulwurfsgrille
+399	Nebelriese
+400	Seele eines Kriegers
+401	Seele eines Bogenschützen
+402	Biest
+403	Kenkospion
+404	Zwickender Folterknecht
+405	Rädernder Folterknecht
+406	Stählerner Folterknecht
+407	Teufelsdame
+408	Hüpfender Ninjazwerg
+409	Bewaffneter Ninjazwerg
+410	Betrunkener Ninjazwerg
+411	Ninja
+412	Nonomaru
+413	Verliebter Geist
+414	Namaju
+415	Trauriger Ninjazwerg
+416	Mini-Jajamaru
+417	Prinzessin Sakura
+418	Brutaler Namaju
+419	Brutales Seedle
+420	Verrückter Dander
+421	Brutales Huhn
+422	Yobby Expy-Bergmann
+423	Jajamaru
+424	Meteoritenstück
+425	Großer Grabstein
+426	Kleiner Grabstein
+427	Starke Mücke
+428	Wütender Namaju
+429	Wütender Namaju
+430	Wütender Namaju
+431	Wütender Namaju
+432	Wütender Namaju
+433	Jajamarus Topf
+434	Verfluchtes Biest
+435	Verfluchter Nebelriese
+436	Verfluchte Teufelsdame
+437	Rosendornhexe
+438	Starke Weißhexe
+439	Auferstandener Skelettkrieger
+440	Feuerdrache
+441	Todeskrieger
+442	Höllenritter
+443	Fliegender Feuerteufel
+444	Knochendrache
+445	Chrysos
+446	Yak Krieger
+447	Yak Magier
+448	Grasslinfee
+449	Grasslinfee
+450	Riesiger Grasslin
+451	Kleiner Grasslin
+452	Riesiger Grasslin
+453	Tor zum Land der Toten
+454	Catrisha
+455	Catlotte
+456	Jack Lumber
+457	Rody Windsinger
+458	Rudy Steward
+459	Eri Windspear
+460	Erikiels Truppe
+461	Soty Bystander
+462	Khanty Darkstaker
+463	Rect Lat
+464	Recturus Lightelusion
+465	Riesenmuschel
+466	Treekun
+467	Königsblutegel
+468	Feuergolem
+469	Basilisk
+470	Riesenlarve
+471	NotUse
+472	Große Qualle
+473	Kleine Qualle
+474	Alter Baumgeist
+475	Graylander
+476	Riesiger Blutegel
+477	Wächter
+478	Motte
+479	Maulwurfsgrille
+480	Junger Maulwurf
+481	Maulwurfsmutter
+482	Großer Höllenhund
+483	Enkidu
+484	Larve
+485	Wächter
+486	Wächter
+487	Höllenritter
+488	Höllenritter
+489	Höllenritter
+490	Chrysos
+491	Chrysos
+492	Chrysos
+493	Basilisk
+494	Basilisk
+495	Basilisk
+496	Treekun
+497	Treekun
+498	Treekun
+499	Fabian Frost
+500	Daisy Akamur
+501	Seina Reiya
+502	Justin Darkflame
+503	Whitney Catherine
+504	Dämonischer Wärter
+505	Schrecklicher Höllenwächter
+506	Grausamer Höllenwächter
+507	Kartos
+508	Benteruke
+509	Pelicert
+510	Archtheridon Hellduke
+511	Echekaruel Mysticaron
+512	Dr.W
+513	Buschi
+514	Kammerjäger Buschi
+515	Kupei Karustier
+516	Arcke
+517	Engel Jabiniel
+518	Engel Israel
+519	Engel Reedwhanel
+520	Enkidu
+521	Arnold Artisan
+522	Isaac Artisan
+523	Noelia Rosa
+524	Margaret
+525	Alice Bellia
+526	Marvin Magicus
+527	Edward
+528	Lucia
+529	Airwaves-Schild
+530	Weihnachtsmann
+531	Schneemann
+532	Schneemannkopf
+533	Großer Schneemannkopf
+534	Benito Butler
+535	Schneemann
+536	Neujahrsglücksschwein
+537	Glückliche Ratte
+538	Aurelius Roshu
+539	Rudin Albisco
+540	Leika Passage
+541	Siegel-Flüchtling
+542	NotUse
+543	Cappen
+544	Kangpen
+545	Jackpen
+546	Gnollspäher
+547	Gnollsoldat
+548	NotUse
+549	Riesiger Yeti
+550	NotUse
+551	Prota
+552	Frosthexe
+553	Lace
+554	NotUse
+555	Eiswurm
+556	Lord Mukraju
+557	Ross Hisrant
+558	Glückliche Ratte
+559	Mokankrieger
+560	Mokanjäger
+561	Mächtiger Moldaskrieger
+562	Mächtiger Moldashexenmeister
+563	Meister Morcos
+564	Weiße Robbe
+565	Hemil Melius
+566	Amelia Glacia
+567	Eierfee
+568	Leika Passage
+569	Kleiner verdächtiger Gnollspäher
+570	Verdächtiger Gnollspäher
+571	Sehr verdächtiger Gnollspäher
+572	Extrem verdächtiger Gnollspäher
+573	Dunkles Wächterauge
+574	Dunkler Jäger
+575	Schatten-Prädator
+576	Dunkler Eremit
+577	Meister Hatus
+578	Alfred Erudio
+579	Enkidu
+580	Höllenhund
+581	Aqua Buschi
+582	Starker Ginseng
+583	Starker Basilisk
+584	Königskartoffelstengel
+585	Großkönigskartoffelstengel
+586	Königskartoffelmonster
+587	Lord Mukraju
+588	Riesiges Küken
+589	Tausendjähriges Mandra
+590	Hund der Höllenwache
+591	Riesiger Kampfhahn
+592	Tausendjährige Kartoffel
+593	Hund Satans
+594	Riesiger Warepard
+595	Satelitenboing
+596	Wurzelteufel
+597	Muskulöser Slade
+598	Schattenkönig
+599	Sladegolem
+600	Mini Castra
+601	Todesritter
+602	Dicker Blutegel
+603	Tausendjähriger Ginseng
+604	Basiliskenkönig
+605	Riesenkrieger
+606	Verfluchter Baum
+607	Königskrabbe
+608	Zahmer Yeti
+609	Moldaskrieger
+610	Moldashexenmeister
+611	Großkönigskartoffelmonster
+612	none
+613	Fabian Frost
+614	Spezialeinheit Buschi
+615	Grünes Buschi
+616	Rotes Buschi
+617	Kristallhöhlenwachhund
+618	Kristallhöhlentorwache
+619	Kristallhöhlenpriester
+620	Kristallhöhlenwächter
+621	Smaragdphantom
+622	Saphirphantom
+623	Rubinphantom
+624	Baron Berios
+625	Ozeanjäger
+626	Ozeanwächter
+627	Aufseheranemone
+628	Verfolgerfisch
+629	Lady Calvinas
+630	Schwarzes Buschi
+631	Blaues Buschi
+632	Gelbes Buschi
+633	Türkisfarbenes Buschi
+634	Pinkfarbenes Buschi
+635	Super Samurai Buschi
+636	Grusel-Haustiertrainer
+637	Starker Dämonenhund Kertos
+638	Fußball Buschi (DE)
+639	Fußball Buschi (FR)
+640	Fußball Buschi (EN)
+641	Fußball Buschi (IT)
+642	Fußball Buschi (ES)
+643	Fußball Buschi (PL)
+644	Fußball Buschi (RU)
+645	none
+646	none
+647	none
+648	none
+649	none
+650	none
+651	none
+652	none
+653	none
+654	none
+655	none
+656	none
+657	none
+658	none
+659	none
+660	none
+661	none
+662	none
+663	Pegasus
+664	Süßer Hase
+665	Cappen König
+666	Nachwuchskämpfer der Gnollspäher
+667	Fußball Buschi (CZ)
+668	Erbitterte Prota
+669	Fußball Buschi (TR)
+670	Fibi Frostig
+671	Mini-Feuerteufel
+672	Schwarzflügel-Imp
+673	Rotnasen-Rentier
+674	Amora
+675	Amora
+676	Gefallener^Offizier^Chris
+677	Junger^roter^Wolf
+678	Roter^Wolf
+679	Hüter der Engel
+680	Hüter der Dämonen
+681	Alter^roter^Wolf
+723	Riesiges rosa Jelly
+724	Starker Höllenritter
+725	Starker Graylander
+727	Nachwuchs der Gnollspäher
+728	Enkidunachwuchs
+729	Zahmer Yeti
+730	Beschworener Jackpen
+731	Beschworener Kangpen
+732	Hässlicher Rudolf
+733	Abscheulicher Rudolf
+734	Hässlicher Rudolf
+735	Abscheulicher Rudolf
+736	Hässlicher Rudolf
+737	Abscheulicher Rudolf
+738	Hässlicher Rudolf
+739	Abscheulicher Rudolf
+740	Böser Schneemann
+741	Böser Schneemann
+742	Böser Schneemann
+743	Böser Schneemann
+744	Hässlicher Rudolf
+745	Abscheulicher Rudolf
+746	Hässlicher Rudolf
+747	Super Santa Buschi
+748	Schwacher Feuerteufel
+749	Abscheulicher Rudolf
+750	Böser Schneemann
+751	Böser Schneemann
+752	Stier Buschi
+753	Schnee-Basilisk
+754	Schneelöwe
+755	Schneefuchs
+756	Stier Buschi
+762	Samurai Buschi
+769	Boxer Buschi
+770	Beschworener Ozeanjäger
+771	Beschworener Ozeanwächter
+774	Huhnkönigin
+778	Fußball Buschi
+779	Schiri Buschi
+780	Herbeigerufener Kristallhöhlenwachhund
+781	Herbeigerufene Kristallhöhlentorwache
+782	Herbeigerufener Kristallhöhlenpriester
+783	Herbeigerufener Kristallhöhlenwächter
+784	Rusty Robby
+789	Verfaulte Kartoffel
+793	Bibi Basar
+794	Super Kürbis Buschi
+795	Flinker Häschendieb
+796	Wütender Huhnkönig
+797	Riesiges Vogelei
+798	Riesiges Vogelei
+799	Riesiges hüpfendes Chicky
+800	Riesiges grimmiges Chicky
+801	Hüpfendes Chicky
+802	Grimmiges Chicky
+803	Chick Norris
+813	Rudolf Buschi
+814	Shogun Buschi
+815	Centurio Buschi
+816	Junges Rudolf Buschi
+817	Icy Ike (m)
+818	Icy Isa (w)
+819	Crazy Chris (m)
+820	Crazy Chrissy (w)
+821	Mini Kangpen
+822	Leona
+823	Darko
+824	Junges hopsendes Jelly
+825	Hopsendes Jelly
+826	Junges hüpfendes Jelly
+827	Hüpfendes Jelly
+828	Seraphim
+829	Rudi Rabauke
+830	Junger Rudi Rabauke
+831	Aegirs Seele
+832	Freyas Seele
+833	Barnis Seele
+834	Versiegelter junger Rudi Rabauke
+835	Fieser Yeti
+836	Keinarmhase
+838	Navy Buschi
+839	Buschi-König
+840	Leo der Feigling
+841	Ninja Buschi
+842	Indianer Buschi
+843	Wikinger Buschi
+844	Cowboy Buschi
+845	Mini Ninja Buschi
+846	Sammy Samtpfote
+848	Jajamarus Falle
+849	Bambusstäbe
+850	Morgenstern
+851	Fallender Stein
+852	Kleine Spinne
+853	Toter Kovolt
+854	Schwarzer Meteorit
+855	Schriftrolle der Erleuchtung
+856	Teleportstein
+857	Beobachter des Labors
+858	Duftendes Gras
+859	Tiefer Brunnen
+860	Zerbrochene rote Tafel
+861	Baumstumpf
+862	Blütenbaum
+863	Kovolt-Statue
+864	Pentagramm
+865	Kreis der Finsternis
+866	Heiliger Strauch
+867	Heiliger Altar
+868	Magischer Ast
+869	Schnüfflernest
+870	Level 20 Questgeber
+871	Level 21-1 Questgeber
+872	Level 21-2 Questgeber
+873	Level 21-3 Questgeber
+874	Level 21-4 Questgeber
+875	Level 21-5 Questgeber
+876	Level 21-6 Questgeber
+877	Level 22-1 Questgeber
+878	Level 22-2 Questgeber
+879	Level 22-3 Questgeber
+880	Weizen
+881	Eisenerz
+882	Level 25-1 Questgeber
+883	Level 25-2 Questgeber
+884	Level 25-3 Questgeber
+885	Level 25-4 Questgeber
+886	Level 25-5 Questgeber
+887	Level 25-6 Questgeber
+888	Level 25-7 Questgeber
+889	Level 25-8 Questgeber
+890	Level 25-9 Questgeber
+891	Level 25-10 Questgeber
+892	Seltsame Spur
+893	Mysteriöser Brunnen
+894	Geheimnisvoller Brunnen
+895	Vogelnest
+896	Goldenes Nest
+897	Magischer Brunnen
+898	Eigenartiger Brunnen
+899	Magischer Ast
+900	Buschi-Trainer
+901	Magischer Ast
+902	Magischer Ast
+903	Körper der gefangenen Seele
+904	Überbringer der zerrissenen Kutte
+905	Tafel mit Fahndungsliste
+906	Shinebone-Statue
+907	Zerstörtes Wachhaus
+908	Weicher Boden
+909	Harter Boden
+910	Glänzender Stein
+911	Besen
+912	Reispflanze
+913	Statue des Schreckens
+914	Fruchtbaum
+915	Punktetafel
+916	Roter Stein
+917	Zerstörte Shinebone-Statue
+918	Kenko Spion Geber 1
+919	Kenko Spion Geber 2
+920	Kleiner Wegweiser
+921	Großer Wegweiser
+922	Großer Regenbogenkristall
+923	Mittlerer Regenbogenkristall
+924	Kleiner Regenbogenkristall
+925	Kenko Spion Geber 3
+926	Kenko Spion Geber 4
+927	Rosendorn-Weißhexe
+928	Gänseblümchen
+929	Schwertlilie
+930	Timespaceportal
+931	Hinweis der Feen
+932	Gelber Seelenstein
+933	Roter Seelenstein
+934	Blauer Seelenstein
+935	Mysteriöser Seelenstein
+936	Mysteriöser Seelenstein
+937	Mysteriöser Seelenstein
+938	Chrysosstatue
+939	Brunnen
+940	Mysteriöse Person
+941	Große rote Blume
+942	Brunnen
+943	Brunnen
+944	Brunnen
+945	Bombe
+946	Feuermine
+947	Uralte Seele
+948	Goldener Seelenstein
+949	Heiliger Brunnen
+950	Blackout Mandra
+951	Antibuff-Mandra
+952	Mysteriöser Seelenstein
+953	Mysteriöser Seelenstein
+954	Grauer Seelenstein
+955	Teleportationsturm
+956	Kleines Lagerfeuer
+957	Großes Lagerfeuer
+958	Beschwörungsportal für Monster
+959	Eismaschine
+960	Starkes Buschi
+961	Feuer Buschi
+962	Wasser Buschi
+963	Licht Buschi
+964	Schatten Buschi
+965	Basislager der Engel
+966	Basislager der Dämonen
+967	Altar der Engel
+968	Altar der Dämonen
+969	Landstreicher 1
+970	Landstreicher 2
+971	Rudolfs Haustiertrainer
+972	Eisangriff der Engel
+973	Eisangriff der Dämonen
+974	Lotusblüte
+979	Riesiger Kenkoräuber
+985	Ostersack
+988	Mysteriöses Ei
+1000	Meersand-Fisch
+1001	Meersand-Prota
+1002	Meersand-Klingenblatt
+1003	Meersand-Prädator
+1004	Meersand-Kriecher
+1005	Meersand-Stachelkriecher
+1006	Meersand-Klingenhorn
+1007	Meersand-Fuchs
+1008	Meersand-Kaktus
+1009	Meersand-Mantis
+1010	Meersand-Skorpion
+1011	Meersand-Basilisk
+1012	Gebetsmönch
+1013	Gebetsgeist
+1014	Gebetspriester
+1015	Anführer des Gebets
+1016	Kommandant Neil
+1017	Kommandant Melki
+1018	Kommandant Keru
+1019	Kommandant Garton
+1020	Samurai von Neils Spähtrupp
+1021	Assassine von Neils Spähtrupp
+1022	Jäger von Neils Spähtrupp
+1023	Zündler von Neils Spähtrupp
+1024	Neils Wärter
+1025	Neils Lagerverwalter
+1026	Neils Schlüsselmeister
+1027	Spion von Neils Spähtrupp
+1028	Ibrahim
+1029	Kommandant Shoran
+1030	Kommandant Shay
+1031	Kundschafter von Neils Spähtrupp
+1032	Sandsturm
+1033	Sandgeist
+1034	Sandriese
+1035	Sandzwerg
+1036	Verwalter antiker Relikte
+1037	Windsand-Geist
+1038	Windsand-Gladiator
+1039	Windsand-Schütze
+1040	Windsand-Magier
+1041	Torwächter der antiken Ruine
+1042	Magmaros
+1043	Feuerspinne Valaket
+1044	Feuerkönig Valakus
+1045	Gluthund
+1046	Kertos, der Dämonenhund
+1047	Flammengigant
+1048	Starke brennende Kette
+1049	Lavagespenst
+1050	none
+1051	Phönix
+1052	none
+1053	Lodernde Kreatur
+1054	Gral, der riesige Phönix
+1055	Klinge der gleißenden Hitze
+1056	Schild der gleißenden Hitze
+1057	Lanze der gleißenden Hitze
+1058	Feuergott Grenigas
+1059	Rody Windsinger
+1060	Jin Hamadin
+1061	Leuchtturmwärter Chilton
+1062	Hafenwache Tom
+1063	Präsident Noah
+1064	Hazel
+1065	Priesterin Serizad
+1066	Hohepriester Eladin
+1067	Priesterin Vera
+1068	Riana
+1069	Serena
+1070	Nephi
+1071	Repräsentantin Semia
+1072	Paul
+1073	Delmon Milow
+1074	Wache der Akamurhändler
+1075	Repräsentant der Akamurhändler
+1076	Akamurhändler
+1077	Einwohner
+1078	Einwohner
+1079	Geist eines Schatzsuchers
+1080	Toter Schatzsucher
+1081	Seele eines Priesters
+1082	Toter Priester
+1083	Ruhender Räuber
+1084	Kamel
+1085	Hamid
+1086	Gefangener Sharif
+1087	Repräsentant Rushaldin
+1088	Kamil
+1089	Michol
+1090	Xavier
+1091	Velmon
+1092	Chaosmiliz
+1093	Maloren Wüstenplünderer
+1094	Bolporti der Seidenweber
+1095	Bewohner der Zone des Chaos
+1096	Bewohner der Zone des Chaos
+1097	Inspektor Serges
+1098	Mysteriöser Reisender
+1099	Phantom des Grenigas
+1100	Neils Elite-Samurai
+1101	Neils Elite-Assassine
+1102	Neils Elite-Jäger
+1103	Neils Elite-Zündler
+1104	Sturmsand-Fisch
+1105	Sturmsand-Prota
+1106	Sturmsand-Klingenblatt
+1107	Sturmsand-Prädator
+1108	Sturmsand-Klingenhorn
+1109	Sturmsand-Mantis
+1110	Sturmsand-Skorpion
+1111	Sturmsand-Basilisk
+1112	Staubsand-Fisch
+1113	Staubsand-Prota
+1114	Staubsand-Klingenblatt
+1115	Staubsand-Prädator
+1116	Staubsand-Klingenhorn
+1117	Staubsand-Mantis
+1118	Staubsand-Skorpion
+1119	Staubsand-Basilisk
+1120	Treibsand-Prädator
+1121	Treibsand-Mantis
+1122	Treibsand-Skorpion
+1123	Treibsand-Basilisk
+1124	Sturmsand-Kriecher
+1125	Sturmsand-Stachelkriecher
+1126	Sturmsand-Kaktus
+1127	Staubsand-Kriecher
+1128	Staubsand-Stachelkriecher
+1129	Staubsand-Kaktus
+1130	Treibsand-Kaktus
+1131	Sturmsand-Fuchs
+1132	Staubsand-Fuchs
+1133	Samurai von Melkis Spähtrupp
+1134	Assassine von Melkis Spähtrupp
+1135	Jäger von Melkis Spähtrupp
+1136	Zündler von Melkis Spähtrupp
+1137	Spion von Melkis Spähtrupp
+1138	Kundschafter von Melkis Spähtrupp
+1139	Melkis Schlüsselmeister
+1140	Melkis Wärter
+1141	Melkis Elite-Samurai
+1142	Melkis Elite-Assassine
+1143	Melkis Elite-Jäger
+1144	Melkis Elite-Zündler
+1145	Samurai von Shays Spähtrupp
+1146	Samurai von Kerus Spähtrupp
+1147	Assassine von Kerus Spähtrupp
+1148	Jäger von Kerus Spähtrupp
+1149	Zündler von Kerus Spähtrupp
+1150	Spion von Kerus Spähtrupp
+1151	Kundschafter von Kerus Spähtrupp
+1152	Kerus Schlüsselmeister
+1153	Kerus Wärter
+1154	Kerus Elite-Samurai
+1155	Kerus Elite-Assassine
+1156	Kerus Elite-Jäger
+1157	Kerus Elite-Zündler
+1158	Assassine von Shays Spähtrupp
+1159	Samurai von Gartons Spähtrupp
+1160	Assassine von Gartons Spähtrupp
+1161	Jäger von Gartons Spähtrupp
+1162	Zündler von Gartons Spähtrupp
+1163	Spion von Gartons Spähtrupp
+1164	Kundschafter von Gartons Spähtrupp
+1165	Gartons Schlüsselmeister
+1166	Gartons Wärter
+1167	Gartons Elite-Samurai
+1168	Gartons Elite-Assassine
+1169	Gartons Elite-Jäger
+1170	Gartons Elite-Zündler
+1171	Jäger von Shays Spähtrupp
+1172	Klagemönch
+1173	Klagegeist
+1174	Klagepriester
+1175	Anführer der Klage
+1176	Mönch der Unruhe
+1177	Geist der Unruhe
+1178	Priester der Unruhe
+1179	Anführer der Unruhe
+1180	Mönch der Agonie
+1181	Geist der Agonie
+1182	Priester der Agonie
+1183	Anführer der Agonie
+1184	Wüstensand-Sturm
+1185	Wüstensand-Geist
+1186	Wüstensand-Riese
+1187	Wüstensand-Zwerg
+1188	Staubsand-Sturm
+1189	Staubsand-Geist
+1190	Staubsand-Riese
+1191	Staubsand-Zwerg
+1192	Treibsand-Sturm
+1193	Treibsand-Geist
+1194	Treibsand-Riese
+1195	Treibsand-Zwerg
+1196	Vulkansand-Geist
+1197	Vulkansand-Gladiator
+1198	Vulkansand-Schütze
+1199	Vulkansand-Magier
+1200	Flugsand-Geist
+1201	Flugsand-Gladiator
+1202	Flugsand-Schütze
+1203	Flugsand-Magier
+1204	Trockensand-Geist
+1205	Trockensand-Gladiator
+1206	Trockensand-Schütze
+1207	Trockensand-Magier
+1208	Zündler von Shays Spähtrupp
+1209	Samurai von Shorans Spähtrupp
+1210	Assassine von Shorans Spähtrupp
+1211	Jäger von Shorans Spähtrupp
+1212	Zündler von Shorans Spähtrupp
+1213	Shays Patrouillen-Samurai
+1214	Shays Patrouillen-Assassine
+1215	Shays Patrouillen-Jäger
+1216	Shays Patrouillen-Zündler
+1217	Shorans Patrouillen-Samurai
+1218	Shorans Patrouillen-Assassine
+1219	Shorans Patrouillen-Jäger
+1220	Shorans Patrouillen-Zündler
+1221	Shays Transport-Samurai
+1222	Shays Transport-Assassine
+1223	Shays Transport-Jäger
+1224	Shays Transport-Zündler
+1225	Shorans Transport-Samurai
+1226	Shorans Transport-Assassine
+1227	Shorans Transport-Jäger
+1228	Shorans Transport-Zündler
+1229	Shorans Geleit-Samurai
+1230	Shorans Geleit-Assassine
+1231	Shorans Geleit-Jäger
+1232	Shorans Geleit-Zündler
+1233	Shays Geleit-Samurai
+1234	Shays Geleit-Assassine
+1235	Shays Geleit-Jäger
+1236	Shays Geleit-Zündler
+1237	Wüstensand-Fisch
+1238	Wüstensand-Prota
+1239	Wüstensand-Klingenblatt
+1240	Wüstensand-Prädator
+1241	Wüstensand-Klingenhorn
+1242	Wüstensand-Mantis
+1243	Wüstensand-Skorpion
+1244	Wüstensand-Basilisk
+1245	Geistersand-Fisch
+1246	Geistersand-Prota
+1247	Geistersand-Klingenblatt
+1248	Geistersand-Prädator
+1249	Geistersand-Klingenhorn
+1250	Geistersand-Mantis
+1251	Geistersand-Skorpion
+1252	Geistersand-Basilisk
+1253	Wüstensand-Kriecher
+1254	Wüstensand-Stachelkriecher
+1255	Wüstensand-Kaktus
+1256	Geistersand-Kriecher
+1257	Geistersand-Stachelkriecher
+1258	Geistersand-Kaktus
+1259	Wüstensand-Fuchs
+1260	Geistersand-Fuchs
+1261	Gefangener
+1262	Lagerwache
+1263	Repräsentant Mursha
+1264	Sack mit Kaktusfeigen
+1265	Neils Postkasten
+1266	Gefangener Humad
+1267	Priesterin Nora
+1268	Wache Putran
+1269	Wahrsager Nuki
+1270	Assistent Shane
+1271	Zurückgelassene Truhe der Akamurhändler
+1272	Zerstörte Handelswaren
+1273	Geplünderte Handelswaren
+1274	Zerstörte Akamurfahne
+1275	Erste Handelswaren
+1276	Zweite Handelswaren
+1277	Dritte Handelswaren
+1278	Vierte Handelswaren
+1279	Fünfte Handelswaren
+1280	Sechste Handelswaren
+1281	Truhe mit Befehlslisten
+1282	Verdächtiger Trank
+1283	Kerus merkwürdige Truhe
+1284	Gartons merkwürdige Truhe
+1285	Kerus gestohlene Relikte
+1286	Gartons gestohlene Relikte
+1287	Gestohlene Relikte
+1288	Truhe mit Schriftrollen
+1289	Seltsames Reliktstück
+1290	Samurai von Shays Spähtrupp
+1291	Assassine von Shays Spähtrupp
+1292	Jäger von Shays Spähtrupp
+1293	Zündler von Shays Spähtrupp
+1294	Samurai von Shorans Spähtrupp
+1295	Assassine von Shorans Spähtrupp
+1296	Jäger von Shorans Spähtrupp
+1297	Zündler von Shorans Spähtrupp
+1298	Samurai von Shorans Wache
+1299	Assassine von Shorans Wache
+1300	Jäger von Shorans Wache
+1301	Zündler von Shorans Wache
+1302	Samurai von Shays Wache
+1303	Assassine von Shays Wache
+1304	Jäger von Shays Wache
+1305	Zündler von Shays Wache
+1306	Schlüsselmeister der Wüstenräuber
+1307	Wärter der Wüstenräuber
+1308	Zerbrochene Relikte
+1309	Zerstörtes Relikt
+1310	Versiegelte Truhe
+1311	Zerbrochene Reliktstücke
+1312	Zerbrochene Reliktstücke
+1313	Zerbrochene Reliktstücke
+1314	Zerbrochene Reliktstücke
+1315	Erste Schrifttafel
+1316	Zweite Schrifttafel
+1317	Dritte Schrifttafel
+1318	Zerbrochene Schrifttafel
+1319	Zerbrochene Schrifttafel
+1320	Zerbrochene Schrifttafel
+1321	Zerbrochene Schrifttafel
+1322	Toter Mönch
+1323	Toter Kleriker
+1324	Staubsand-Golem
+1325	Treibsand-Golem
+1326	Wüstensand-Golem
+1327	Truhe mit Feenstaub
+1328	Brief an den Wüstenräuberanführer
+1329	Tagebuch des Reisenden
+1330	Giftflasche
+1331	Ledertasche einer Fee
+1332	Feenstaub der Erde
+1333	Feenstaub des Windes
+1334	Feenstaub des Sandes
+1335	Medizinflasche
+1336	Truhe der Akamurhändler
+1337	Truhe der Akamurhändler
+1338	Verlorene Truhe (Kerus Lager)
+1339	Verlorene Truhe (Gartons Lager)
+1340	Verlorene Waren (Wüstenräuberlager)
+1341	Verlorene Truhe (Räuberzentrum)
+1342	Unentdeckte Merkwürdige Truhe
+1343	Roram
+1344	Versorgungsoffizier Jamal
+1345	Versorgungsoffizier Aaron
+1346	Truhe der Räuberbande
+1347	Schatztruhe des Vergessens
+1348	Merkwürdige Truhe
+1349	Isalin
+1350	Isalin
+1351	Isalin
+1352	Elite-Samurai
+1353	Elite-Assassine
+1354	Elite-Jäger
+1355	Elite-Zündler
+1356	Lagerkommandant Neil
+1357	Lagerkommandant Melki
+1358	Kommandant Keru
+1359	Lagerkommandant Garton
+1360	Kommandant Shoran
+1361	Kommandant Shay
+1362	Versorgungsoffizier Ulman
+1363	Samira
+1364	Elias
+1365	Eldin
+1366	Elly
+1367	Bastler
+1368	Magischer Roller (m)
+1369	Magischer Roller (w)
+1370	Magischer Teppich (m)
+1371	Magischer Teppich (w)
+1372	Verwalter antiker Relikte, 1. Betrachter
+1373	Verwalter antiker Relikte, 2. Betrachter
+1374	Verwalter antiker Relikte, 3. Betrachter
+1375	Ruhende Transporteinheit
+1376	Ruhende Patrouille
+1377	Tote Eliteeinheit
+1378	Steinschlag
+1379	Hafenbewohner
+1380	Hafenbewohner
+1381	Jack O'Lantern
+1382	Kürbisbombe
+1383	Jack O'Lanterns Schergen
+1384	Kürbis Buschi
+1385	Halloweenwegweiser
+1386	Versiegeltes rosa Jelly
+1387	Versiegeltes Küken
+1388	Versiegelter Sturmsoldat der Kenkos
+1389	Versiegelter Höllenhund
+1390	Versiegelter Kampfhahn
+1391	Versiegelter Vampie
+1392	Versiegelter Hund Satans
+1393	Versiegelter Höllenritter
+1394	Versiegelter Gargs
+1395	Versiegelter Boing
+1396	Versiegelter Slade
+1397	Versiegelter Feuerteufel
+1398	Versiegelte Königskrabbe
+1399	Versiegelte Frosthexe
+1400	Versiegeltes Biest
+1401	Versiegelter Nebelriese
+1402	Versiegelter Graylander
+1403	Versiegelter Ginseng
+1404	Versiegelter Schattenkönig
+1405	Versiegelter Sladegolem
+1406	Magischer weißer Tiger (m)
+1407	Magischer weißer Tiger (w)
+1408	Schattenphantom
+1409	Schattenphantom
+1410	Schattenphantom
+1411	Magisches Cabrio (m)
+1412	Magisches Cabrio (w)
+1413	Professor Asim
+1414	Versiegeltes rosa Jelly
+1415	Versiegeltes rotes Jelly
+1416	Versiegelter kleiner Hornimp
+1417	Versiegelter Hornimp
+1418	Versiegeltes dunkles Jelly
+1419	Versiegelter großer Hornimp
+1420	Versiegelter Wolf
+1421	Versiegeltes Schwein
+1422	Versiegelte Bergschildkröte
+1423	Versiegelter Wolfslöwe
+1424	Versiegelter Yeti
+1425	Versiegeltes Super Santa Buschi
+1426	Hässlicher Rudolf
+1427	Abscheulicher Rudolf
+1428	Osterwegweiser
+1429	Fluffy McFly (m)
+1430	Fluffy McFly (w)
+1431	Salim
+1432	Flieger des Hornfegers (m)
+1433	Fliegerin des Hornfegers (w)
+1434	Versiegeltes junges Rudolf Buschi
+1435	Flocke, die Schneefee
+1436	Mobile Falle
+1437	Jagdfalke
+1438	Dunstwolke
+1439	Riesenstrudel
+1440	Magischer Schlitten (m)
+1441	Magischer Schlitten (w)
+1442	Schlitten mit Rotnasen-Rentier (m)
+1443	Schlitten mit Rotnasen-Rentier (w)
+1444	Magische Esel-Piñata (m)
+1445	Magische Esel-Piñata (w)
+1499	Wegweiser mit Piratenflagge
+1500	Captain Pete O'Peng
+1501	Piraten Kangpen
+1502	Piraten Jackpen
+1503	Piraten Cappen
+1504	Captain Jack Panon
+1505	Piraten Buschi (Wasser)
+1506	Piraten Buschi (Feuer)
+1507	Piraten Buschi (Licht)
+1508	Piraten Buschi (Schatten)
+1509	Mini Jackpen
+1510	Haustiertrainer der Piraten
+1511	Winnie Weißfeder (m)
+1512	Winnie Weißfeder (w)
+1513	Magisches Kamel (m)
+1514	Magisches Kamel (w)
+1515	Eric
+1516	Mary
+1517	Nossi, der Drache (m)
+1518	Nossi, der Drache (w)
+1519	Weihnachtswegweiser
+1520	Bike "Billy Boneshaker" (m)
+1521	Bike "Billy Boneshaker" (w)
+1522	Inlineskates "Blazing Blades" (m)
+1523	Inlineskates "Blazing Blades" (w)
+1524	Skateboard "Doni Darkslide" (m)
+1525	Skateboard "Doni Darkslide" (w)
+1526	Weißes Einhorn
+1527	Weißes Einhorn
+1528	Rosarotes Einhorn
+1529	Rosarotes Einhorn
+1530	Schwarzes Einhorn
+1531	Schwarzes Einhorn
+1900	Samurai des Wüstenräuber-Erkundungsteams
+1901	Jäger des Wüstenräuber-Erkundungsteams
+1902	Zündler des Wüstenräuber-Erkundungsteams
+1903	Hohepriester des Feuergottes
+1904	Schatten von Kertos
+1905	Schatten von Valakus
+1906	Schwelender Lavastein
+1907	Hüter der Relikte
+1908	Mysteriöser Reisender
+1909	Flinker Gluthund
+1910	Bissiger Gluthund
+1911	Brennende Kette
+1912	Schatten von Kertos
+1913	Lavageist
+1914	Schemenhafter Gluthund
+1915	Junges von Kertos
+1916	Schemenhafter Magmaros
+1917	Schemenhafter Valaket
+1918	Starker Magmaros
+1919	Starker Valaket
+1920	Starkes Lavagespenst
+1921	Ei der Spinnen
+1922	Valakus' Ei
+1923	Lodernder Magmaros
+1924	Lodernder Valaket
+1925	Feuriger Gigant
+1926	Behüter des Feuergottes
+1927	Ei des Phönix
+1928	Sonderbares UFO (m)
+1929	Sonderbares UFO (w)
+1930	Marco Pollo (m)
+1931	Marco Pollo (w)
+1932	Windsurfer (m)
+1933	Windsurfer (w)
+1934	Gelber Jeep (m)
+1935	Gelber Jeep (w)
+1936	Blauer Jeep (m)
+1937	Blauer Jeep (w)
+1938	Roter Jeep (m)
+1939	Roter Jeep (w)
+1940	Blaugrüner Jeep (m)
+1941	Blaugrüner Jeep (w)
+1942	Schwarzer Jeep (m)
+1943	Schwarzer Jeep (w)
+1944	Pinkfarbener Jeep (m)
+1945	Pinkfarbener Jeep (w)
+2000	Militäringenieur der Akamurhändler
+2001	John, der Abenteurer
+2002	Mysteriöses Muster
+2003	Glänzender Sandhaufen
+2004	Eisblume
+2005	Siegel
+2006	Zerbrochenes Siegel
+2007	Gefallener Geist
+2008	Gefallener Geist
+2009	Behüter des Siegels
+2010	Hagere Zombiewache
+2011	Schwacher Behüter des Siegels
+2012	Ei der Spinnen
+2013	Valakus' Ei
+2014	Lavagrube
+2015	Junges von Valakus
+2016	Valakus' Ei
+2017	Kristall des Lebens
+2018	Lavafontäne
+2019	Flammenalchemist
+2020	Eisblume
+2033	Großmagier Kan
+2034	Lord Draco
+2035	Feuriger Achilles
+2036	Achilles' Golem
+2037	Achilles' Totenkopfschütze
+2038	Achilles' Totenkopfkämpfer
+2039	Achilles' Flamme
+2040	Roberto Lusso
+2041	Irene Williams
+2042	Harald von Nos
+2043	Dracos Flammengigant
+2044	Dracos Lavageist
+2045	Felix Frost
+2046	Glacerus' Enkidu
+2047	Glacerus' Eiswurm
+2048	none
+2049	Glacerus, der Eiskalte
+2050	none
+2051	Vereister Seelenstein
+2052	Zangpo
+2053	Falkon
+2054	Elisia
+2055	Eiskalter Schnüffler
+2056	Eiskalter Kampfsoldat
+2057	Eiskalte Frosthexe
+2058	Eiskalter Wolfslöwe
+2059	Laraneya
+2060	Glacerus' Eissiegel
+2100	Geist der Garnison
+2101	Geist des Leibwächters
+2102	Geist des Schützen
+2104	Mini Inferno
+2105	Inferno
+2106	Fünkchen
+2107	Feuertatze
+2108	Tei Ken
+2109	Victoria
+2110	Steve Stuff
+2111	Sammler Akon
+2112	Beschwörter dunkler Klon
+2113	Beschwörter dunkler Klon
+2114	Beschwörter dunkler Klon
+2115	Beschwörter dunkler Klon
+2116	none
+2117	none
+2118	Gelbes^Lamm
+2119	Gelbes^Schaf
+2120	Goldwolke
+2200	Wasser-Buschi
+2201	Feuer-Buschi
+2202	Centurio Buschi
+2203	Boxer Buschi
+2204	Mini-Pegasus
+2205	Beschworener Kangpen
+2206	Herbeigerufenes Grimmiges Küken
+2207	Herbeigerufener Yeti
+2208	Mini-Rudi
+2300	Finsterer Magier
+2301	Dunkler Ritter
+2302	Hexenmeister
+2303	Düsterer Bogenschütze
+2304	Schwarzer Wolf
+2305	Caligor
+2306	Mysteriöser Reisender
+2307	Sarakael
+2308	Lilith
+2309	Foxy
+2311	Mister Parks Erstgeborener
+2312	Mister Parks Zweitgeborener
+2313	Mister Parks Drittgeborener
+2314	Tollwütiger Fuchs
+2315	Tollwütiger Dusifuchs
+2316	Maru
+2317	Verrückter^Osterhase
+2318	Reiskuchenkorb
+2319	Seil
+2320	Seil
+2321	Verängstigte Geschwister
+2322	Maru
+2323	Wanderer
+2324	Tigerhamster
+2325	Giftiger Tigerhamster
+2326	Hexe Laurena
+2327	Laurenas Bestie
+2328	none
+2329	Käsestück
+2330	Grasbüschel
+2331	Teufelchen Hongbi
+2332	Teufelchen Cheongbi
+2333	Teufelchen Hongbi-Klon
+2334	Teufelchen Cheongbi-Klon
+2335	Flaschenkürbis
+2336	Hungbu
+2337	Nolbu
+2338	Verletzte Schwalbe
+2339	Hungbus Flaschenkürbis
+2340	Nolbus Flaschenkürbis
+2341	Aggressiver Hongbi-Klon
+2342	Aggressiver Cheongbi-Klon
+2343	Verrückte^Eierbombe
+2344	Eggy-Bombe
+2345	Verfaulte^Eierbombe
+2350	Giftpflanze der Verdammnis
+2351	Geschockter Soldat
+2352	none
+2353	none
+2354	Verhexter Soldat
+2357	Lola Löffel
+2358	Raphael
+2359	Lolas Betthäschen
+2360	Riesenmöhre
+2361	Riesenmöhre
+2362	Hasenhöhle
+2363	Lolas Meisterhäschen
+2364	none
+2365	Riesenmöhre
+2366	Hasenhöhle
+2367	Hugo Held
+2368	none
+2369	none
+2370	none
+2371	Schatten des Onyxdrachen
+2500	Rozhanik
+2501	Ester
+2502	Lazekiel
+2503	Zelot
+2504	Zenas
+2505	Kreuzritter der 2. Einheit
+2506	Zenas' Schutzritter
+2507	Zenas' Königswächter
+2508	Zenas' Schutzmagier
+2509	Zenas' Priester
+2510	Tallion
+2511	Rement
+2512	Ismatte
+2513	Bacoom
+2514	Erenia
+2515	Elitezelot
+2516	Erenias Schutzritter
+2517	Erenias Königswächter
+2518	Erenias Schutzmagier
+2519	Erenias Priester
+2520	Elitebacoom
+2521	Wächter
+2522	Mystischer Ritter
+2523	Mysticaron
+2524	Schattenritter Deront
+2525	Grauenhafter Speerkämpfer
+2526	Todeskrieger
+2527	Höllenritter
+2528	NotUse
+2529	Dark Castra
+2530	Archtheridon Hellduke
+2531	Auferstandener Skelettkrieger
+2532	Kreuzritter der 6. Einheit
+2533	Kreuzritter der 6. Einheit
+2534	Kreuzritter der 6. Einheit
+2535	Kreuzritterkommandant
+2536	Umwandlungspriester
+2537	Versorgungspriester
+2538	Skillbuchexperte
+2539	Kreuzritter Graham
+2540	Kreuzritter Graham
+2541	Panuel
+2542	Eligoss
+2543	Asael
+2544	Ramel
+2545	Sakiel
+2546	Barak
+2547	Zepharr
+2548	Polneus
+2549	Anfänger der 2. Einheit
+2550	Priesterin Kelly der 2. Einheit
+2551	Priesterin Molly der 2. Einheit
+2552	Aufseher Amon
+2553	Erzengel Luzifer
+2554	Zenas' Magiefeld
+2555	Zerbrochenes Siegel
+2556	Wächterstein
+2557	Graham
+2558	Riesiges Mandra
+2559	Unbekannter Geister-Schwertkämpfer
+2560	Unbekannter Geister-Bogenschütze
+2561	Unbekannter Geister-Magier
+2562	Fernons Geister-Schwertkämpfer
+2563	Fernons Geister-Bogenschütze
+2564	Fernons Geister-Magier
+2565	Verwundeter Kreuzritter
+2566	Wahnsinniger Kreuzritter
+2567	Manipulierter Kreuzritter
+2568	Unbekannter Elite-Geister-Schwertkämpfer
+2569	Unbekannter Elite-Geister-Bogenschütze
+2570	Unbekannter Elite-Geistermagier
+2571	Rangniederer Elite-Geisterkrieger
+2572	Hochrangiger Elite-Geisterkrieger
+2573	Fernons Elite-Geistermagier
+2574	Unvollendete Fernon
+2575	Felice-Alchemist
+2576	Libel
+2577	Harpago
+2578	Kirel
+2579	Astaroth
+2580	Timespace-Forscher der Kreuzritter
+2581	Kerzena
+2582	Eldinen
+2583	Flugschiff-Kapitän
+2584	Legendärer Jäger
+2585	Grabräuber
+2586	Hoffnungsvoller Graham
+2587	Abgrund-Graham
+2588	Pyro-Graham
+2589	Reinigender Graham
+2590	Verwundeter Kreuzritter
+2591	Fernons kleiner Meteor
+2592	Fernons großer Meteor
+2593	Fernons graue Klinge
+2594	Fernons schwarze Klinge
+2595	Linke Klinge des zerbrochenen Krem
+2596	Rechte Klinge des zerbrochenen Krem
+2597	Verwundeter Kreuzritter
+2598	Flugschiff-Kapitän
+2599	Statue von Göttin Zenas
+2600	Statue von Göttin Erenia
+2601	Altar des Tempelplatzes
+2602	Frigg
+2603	Ragnar
+2604	Barnis Seele
+2605	Starker Gifthamster
+2606	Rotes Jelly
+2607	Starker Lavagolem
+2608	Starker Feuervampie
+2609	Kleiner Mimic
+2610	Braunes Buschi
+2611	Kammerjäger Buschi
+2612	Krankes Buschi
+2613	Aqua Buschi
+2614	Stier Buschi
+2615	Samurai Buschi
+2616	Boxer Buschi
+2617	Frigg
+2618	Ragnar
+2619	Gieriger Fafnir
+2620	Erdimien
+2621	Erdimien
+2622	Utegarda
+2623	Beobachter
+2624	Fafnirs Reißzahn
+2625	Kleiner Zahn von Fafnir
+2626	Fafnirs abgebrochener Reißzahn
+2627	Abgebrochener kleiner Zahn von Fafnir
+2628	none
+2629	none
+2630	none
+2631	Lavagespenst
+2632	Behüter des Siegels
+2633	none
+2634	Hauptmann der Wüstenräuber
+2635	Mitglied der Diebesbande
+2636	Elite-Dieb
+2637	none
+2638	none
+2639	Verdorbener Yertirand
+2640	Jennifer
+2641	Flügellose^Amora
+2642	Brutaler Sandriese
+2643	Brutaler Sandzwerg
+2644	Durstiger Geist
+2645	Verdächtiger^Geister-Schwertkämpfer
+2646	Wüsten-Nachtschatten
+2647	Brutaler Wüstensand-Basilisk
+2648	Brutaler Wüsten-Wiggler
+2650	Jennifer
+2651	Yertirand
+2652	Ältester der Goten
+2653	Gotenmädchen
+2654	Piratenkapitän
+2655	Piratenkapitän
+2656	Umherziehender Wüstenalchemist
+2657	Waffenladen in der Wüste
+2658	Wache
+2659	Quartiermeister
+2660	Wache
+2661	Mysteriöser Reisender
+2662	Knochendrache
+2663	Lebender Toter
+2664	Die Untoten
+2665	Totenkopf-Schwertkämpfer
+2666	Totenkopfbogenschütze
+2667	Totenkopfkrieger
+2668	Wandelnder Toter
+2669	Lichtschlag
+2670	Dunkler Lichtschlag
+2671	Seltsamer Yertirand
+2672	Soldat auf Urlaub
+2673	Yertirand
+2674	Wache
+2675	Händler
+2676	Hinterhof-Alchemistin
+2677	Umherziehender Alchemist
+2678	Knochenkrieger Ragnar
+2679	Magischer Knochendrache (für männliche Charaktere)
+2680	Magischer Knochendrache (für weibliche Charaktere)
+2681	Sir Schnurr
+2682	Teufelsanwärter Kratz
+2683	Admiral Adlerauge
+2684	Piratenkönig Pussifer
+2685	Wahnsinniger Dr. Maunz
+2686	Dr. Maunz
+2687	Wütende weiße Hexe Laurena
+2688	Rätseltruhe des wahnsinnigen Dr. Maunz
+2689	Vorratskiste der Katakombe
+2690	Glänzende Vorratskiste der Katakombe
+2691	none
+2692	Angestellter der Cuarry-Bank
+2693	Magischer Jaguar (m)
+2694	Magischer Jaguar (w)
+2695	Ausrüstungshelfer
+2696	Geisterbräutigam^Buhmiau
+2697	Geisterbraut^Buhmiau
+2698	Mysteriöse Person
+2699	Mysteriöse Person
+2700	Drachenfaust
+2701	Mechanikatz
+2702	Mystische Künste
+2703	Mystische Künste (versteckt)
+2704	Glücks-Buschi
+2705	Meister^Wolf
+2708	Polarbär^Fauch
+2709	Superglücks-Buschi

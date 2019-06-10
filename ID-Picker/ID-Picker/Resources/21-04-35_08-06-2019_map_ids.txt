@@ -1,0 +1,310 @@
+1	NosVille
+2	NosVille Meadows
+3	Mine Plains
+4	Sunny Meadows
+5	Fernon Outpost
+6	Western Mine 1
+7	Western Mine 2
+8	Northern Mine
+9	Western Mine 2
+10	Fernon Temple 1
+11	Fernon Temple -1
+12	Fernon Temple -2
+13	Fernon's Hideout 1
+14	Fernon's Hideout 2
+15	Fernon's Hideout 3
+16	Fernon's Hideout 4
+17	Fernon's Hideout 5
+20	Western Krem
+21	Eastern Krem
+22	Peak of Mt. Krem
+23	Mountain Cave 1
+24	Mountain Cave 2
+25	Mountain Cave 3
+26	Mountain Cave 4
+27	Mountain Cave 5
+28	Mountain Cave 6
+29	Shanera Dungeon -1
+30	Shanera Dungeon -2
+31	Shanera Dungeon -3
+32	Shanera Dungeon -4
+33	Hidden Path
+41	Misty Path
+42	Secret Lab 1
+43	Secret Lab 2
+44	Secret Lab 3
+46	Fir Forest
+47	Maple Woods
+49	Enchanted Pathway
+50	Closed Mine
+51	Closed Mine 1
+52	Knights' Camp
+54	Fernon Temple 2
+55	Fernon Temple 3
+56	Fernon Temple 4
+57	Fernon Temple 5
+58	Fernon Temple 6
+59	Fernon Temple 7
+60	Fernon Temple 8
+61	Fernon Temple 9
+62	Fernon Temple 10
+63	Secret Room
+64	Northern Exit
+65	Eastern Exit
+66	Western Exit
+67	Mysterious Gates
+68	Wizard Tower 1
+69	Wizard Tower 2
+70	Wizard Tower 3
+71	Wizard Tower 4
+72	Wizard Tower 5
+73	Wizard Tower 6
+74	Wizard Tower 7
+75	Wizard Tower 8
+76	Stone Cliff 1
+77	Stone Cliff 2
+78	Stone Cliff 3
+79	Stone Cliff 4
+80	Zigzag Trail
+81	Spiral Maze E
+82	Spiral Maze W
+83	Spiral Maze S
+84	Spiral Maze N
+85	Deep Cave
+87	Chief's Cave
+88	NosCamp Cave
+89	Bridge Cave
+93	Red Zone
+94	Blue Zone
+95	Green Zone
+96	Yellow Zone
+97	Desolate Area
+98	Sunset Cliff
+99	Misty Valley
+100	Cave of Ghosts
+101	Labyrinth of Pain
+102	Secret Crevice
+103	Comet Meadow
+105	Forester's House
+106	Watermill
+107	Warehouse
+108	Cat Room
+109	Fir Forest's Edge
+110	Stream Mine -1
+111	Stream Mine -2
+112	Stream Mine -3
+113	Earth Tunnel -1
+114	Earth Tunnel -2
+115	Earth Tunnel -3
+116	Forest Floor
+117	Forest Floor
+118	Underground Path
+119	Cold Tunnel
+120	Rock Cliff
+121	Rock Canyon
+122	Maple Woods' Edge
+123	Seli-Lusha
+124	Seli-Lusha -1
+125	Seli-Lusha -2
+126	Seli-Lusha -3
+127	Seli-Lusha -4
+128	Seli-Lusha -5
+130	Citadel
+131	Citadel
+132	Western Frost Land
+133	Eastern Frost Land
+134	Bitoren Tundra
+135	Shares Canyon
+136	Morcos' Throne
+137	Lorten Forest
+138	Cleft of Darkness
+139	Radikun Beach
+140	Calvinas' Nest
+141	Crystal Cave
+142	Crystal Altar
+145	Port Alveus Square
+146	Port Alveus Market
+147	Market Place
+148	Ship
+149	Ship
+150	Land of Death
+151	North Ice Desert
+152	North Ice Desert
+153	Unknown Land
+154	Caligor's Realm
+170	Mortaz Desert Port
+171	Port Surroundings
+172	Neil's Camp Area
+173	Neil's Camp
+174	East Merchant Camp
+175	Melki's Camp Area
+176	Melki's Camp
+177	Akamur Camp
+178	Northern Desert
+179	Volcano Gate
+180	West Merchant Camp
+181	Keru's Camp Area
+182	Keru's Camp
+183	Garton's Camp Area
+184	Temple Path
+185	Temple Site
+186	Chaos Environment
+187	Garton's Camp
+188	Lost Desert
+189	Desert Eagle City
+190	Chaos Zone
+191	Aster Courtyard
+192	Aster Centre
+193	Robber Courtyard
+194	Robber Centre
+195	Rashid Courtyard
+196	Rashid Centre
+197	Robber Camp Area
+198	Desert Robber Camp
+199	Aster Temple
+200	Treasure Hunt Camp
+201	Akamur Quarter
+205	Kertos' Jaws
+206	Eastern Path
+207	Western Path
+208	Valakus' Claws
+209	Phoenix Wings
+210	Left Wing
+211	Right Wing
+212	Katol's Street
+219	Valakus' Lair
+223	Valakus' Cave
+224	Valakus' Path
+225	Grenigas Square
+226	Lava Path
+227	Way of the Phoenix
+228	Cylloan
+229	Heaven's Gate 1
+230	Heaven's Gate 2
+231	Heaven's Gate 3
+232	Heaven's Gate 4
+233	Hell's Gate 1
+234	Hell's Gate 2
+235	Hell's Gate 3
+236	Hell's Gate 4
+237	Heaven's Ruins 1
+238	Heaven's Ruins 2
+239	Hell's Ruins 1
+240	Hell's Ruins 2
+241	Ancelloan's Will 1
+242	Ancelloan's Will 2
+243	Ancelloan's Will 3
+244	Ancelloan's Will 4
+245	Ancelloan's Will 5
+246	Ancelloan's Will 6
+247	Airship - Cylloan
+248	Airship
+249	Temple Site
+260	Midgard
+261	Tart Hapendam
+262	Oasis
+263	Jotunheim
+264	Cuarry Bank
+400	Lopello Library
+401	Misty Forest
+402	Cave of Memory
+403	Cave of Memory
+404	Cave of Memory
+405	Cave of Memory
+406	Side Road
+407	Dense Forest
+408	Waterfall Passage
+409	Hidden Land
+410	Front of Temple
+411	Mystical Temple
+412	Cliff Cave
+413	Wolf's Lair
+2000	Market Place
+2004	Instant Combat
+2005	Icebreaker
+2006	Individual Arena
+2007	Family Arena
+2110	Secret Chick Farm
+2500	Gate of Mourning
+2501	Adventure Zone
+2502	Hall of Mourning
+2503	Bunny's Backyard
+2507	Horrorholme
+2508	Sinister Path
+2509	Fox's Den
+2510	Jelly Entrance
+2511	Adventure Zone
+2512	Jelly Square
+2515	Witch's House
+2520	Ginseng Entrance
+2521	Adventure Zone
+2522	Ginseng Farm
+2530	Spider Cavern Path
+2531	Adventure Zone
+2532	Spider Cavern
+2536	Grenigas Square
+2537	Lava Path
+2538	Way of the Phoenix
+2539	Grenigas Temple
+2540	Path to Altar
+2540	Path to Altar
+2541	Adventure Zone
+2541	Adventure Zone
+2542	Altar of Pain
+2542	Altar of Pain
+2544	Pirate Ship
+2545	below deck
+2546	Foredeck
+2547	Nest Surroundings
+2548	Path to the Nest
+2549	Breeding Grounds
+2550	Chicken Farm Path
+2551	Chicken Farm
+2552	Breeding Grounds
+2553	Kertos' Cave
+2554	Kertos' Path
+2555	Kertos' Lair
+2556	Valakus' Cave
+2557	Valakus' Path
+2558	Valakus' Lair
+2560	Full Moon Roof
+2561	Namaju's Lair
+2566	Cosy Garden
+2567	Dragon Cavern Path
+2570	Grasslin Meadow
+2580	Snow Trail
+2583	Jack's Hideout
+2586	Wedding Gazebo
+2587	Water Grotto
+2590	Secret Path
+2591	Robber Cellar
+2592	Robber Centre
+2592	Robber Altar
+2606	Temple Site
+2607	Temple Site
+2608	Path to Temple Site
+2609	Path to Temple Site
+2610	Castle Treasury
+2611	Castle Aria Int.
+2612	Castle Aria Int.
+2613	Forgotten Tower
+2614	Forgotten Tower 1
+2615	Forgotten Tower 2
+2616	Forgotten Tower 3
+2617	Forgotten Tower 4
+2618	Forgotten Tower 5
+2619	Forgotten Tower 6
+2620	Forgotten Tower 7
+2623	Catacombs Entrance
+2624	Catacombs Region
+2625	Lost Catacombs
+2627	Occ. Chicken Farm
+4000	Hero Mine
+4100	Plateau of Action
+4200	Plateau of Time
+4300	Plain of Emptiness
+4315	Strange World
+4400	Hero Temple
+4500	Roots of Fernon
+15000	Mission Map
+20001	Miniland

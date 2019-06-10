@@ -1,0 +1,10 @@
+C:\Users\Anwender\source\repos\ID-Picker\ID-Picker\bin\Debug\ID-Picker.exe.config
+C:\Users\Anwender\source\repos\ID-Picker\ID-Picker\bin\Debug\ID-Picker.exe
+C:\Users\Anwender\source\repos\ID-Picker\ID-Picker\bin\Debug\ID-Picker.pdb
+C:\Users\Anwender\source\repos\ID-Picker\ID-Picker\obj\Debug\ID_Picker.Form1.resources
+C:\Users\Anwender\source\repos\ID-Picker\ID-Picker\obj\Debug\ID_Picker.Properties.Resources.resources
+C:\Users\Anwender\source\repos\ID-Picker\ID-Picker\obj\Debug\ID-Picker.csproj.GenerateResource.cache
+C:\Users\Anwender\source\repos\ID-Picker\ID-Picker\obj\Debug\ID-Picker.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\source\repos\ID-Picker\ID-Picker\obj\Debug\ID-Picker.exe
+C:\Users\Anwender\source\repos\ID-Picker\ID-Picker\obj\Debug\ID-Picker.pdb
+C:\Users\Anwender\source\repos\ID-Picker\ID-Picker\obj\Debug\ID-Picker.csprojAssemblyReference.cache

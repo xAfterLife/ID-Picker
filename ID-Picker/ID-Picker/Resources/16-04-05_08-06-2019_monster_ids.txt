@@ -1,0 +1,1777 @@
+0	Baby Fox
+1	Fox
+2	Big Fox
+3	Tired Dusi-Fox
+4	Dusi-Fox
+5	Nervous Dusi-Fox
+6	Happy Oto-Fox
+7	Oto-Fox
+8	Angry Oto-Fox
+9	Happy Wooly
+10	Wooly
+11	Angry Wooly
+12	Small Mufflon
+13	Mufflon
+14	Big Mufflon
+15	Tired Ram
+16	Ram
+17	Nervous Ram
+18	Happy Mandra
+19	Mandra
+20	Angry Mandra
+21	Weak Grasmandra
+22	Grasmandra
+23	Strong Grasmandra
+24	Baby Dander
+25	Dander
+26	Large Dander
+27	Weak Toxi Dander
+28	Toxi Dander
+29	Strong Toxi Dander
+30	Weak Seedle
+31	Seedle
+32	Strong Seedle
+33	Light Fire Seedle
+34	Fire Seedle
+35	Heavy Fire Seedle
+36	Soft Pii
+37	Pii
+38	Hard Pii
+39	Baby Wild Pii
+40	Wild Pii
+41	Big Wild Pii
+42	Rotten Thorn Pii
+43	Thorn Pii
+44	Quick Thorn Pii
+45	Soft Pii Pod
+46	Pii Pod
+47	Hard Pii Pod
+48	Baby Wild Pii Pod
+49	Wild Pii Pod
+50	Big Wild Pii Pod
+51	Rotten Thorn Pii Pod
+52	Thorn Pii Pod
+53	Quick Thorn Pii Pod
+54	Weak Vampie
+55	Vampie
+56	Strong Vampie
+57	Weak Fire Vampie
+58	Fire Vampie
+59	Strong Fire Vampie
+60	Weak Devil Vampie
+61	Devil Vampie
+62	Strong Devil Vampie
+63	Tired Walker
+64	Walker
+65	Nervous Walker
+66	Tired Thornwalker
+67	Thornwalker
+68	Nervous Thornwalker
+69	Tired Stonewalker
+70	Stonewalker
+71	Nervous Stonewalker
+72	Small Imp
+73	Imp
+74	Large Imp
+75	Happy Horn Imp
+76	Horn Imp
+77	Angry Horn Imp
+78	Small Devil Imp
+79	Large Devil Imp
+80	Devil Imp
+81	Tired Pink Jelly
+82	Pink Jelly
+83	Nervous Pink Jelly
+84	Tired Red Jelly
+85	Red Jelly
+86	Jumpy Red Jelly
+87	Tired Dark Jelly
+88	Nervous Dark Jelly
+89	Dark Jelly
+90	Weak Gargs
+91	Gargs
+92	Strong Gargs
+93	Crazy Gargs
+94	Mad Gargs
+95	Psychotic Gargs
+96	Happy Hamster
+97	Hamster
+98	Angry Hamster
+99	Weak Poisonous Hamster
+100	Poisonous Hamster
+101	Strong Poisonous Hamster
+102	Small Steel Hamster
+103	Steel Hamster
+104	Large Steel Hamster
+105	Happy Miner
+106	Miner
+107	Angry Miner
+108	Weak Expy Miner
+109	Expy Miner
+110	Strong Expy Miner
+111	Tired Chief Miner
+112	Chief Miner
+113	Nervous Chief Miner
+114	Rookie Koaren Sword Fighter
+115	Koaren Sword Fighter
+116	Elite Koaren Sword Fighter
+117	Rookie Koaren Archer
+118	Koaren Archer
+119	Elite Koaren Archer
+120	Rookie Koaren Warrior
+121	Koaren Warrior
+122	Elite Koaren Warrior
+123	NotUse
+124	NotUse
+125	NotUse
+126	NotUse
+127	Brutal Devil Imp
+128	Dummy Mandra
+129	Brutal Vampie
+130	Vampie
+131	Weak Walker
+132	Flame
+133	Angry Flame
+134	Warepard
+135	Dark Warepard
+136	Boing
+137	Hard Boing
+138	Small Morning Star Boing
+139	Morning Star Boing
+140	Small Mimic
+141	Mimic
+142	Large Mimic
+143	Morning Star Mimic
+144	Angry Morning Star Mimic
+145	Rookie Kenko Swordsman
+146	Kenko Swordsman
+147	Elite Kenko Swordsman
+148	Rookie Kenko Spearman
+149	Kenko Spearman
+150	Elite Kenko Spearman
+151	Rookie Kenko Raider
+152	Kenko Raider
+153	Elite Kenko Raider
+154	Lanetan
+155	Fernon Dryad
+156	Brown Bushi
+157	Gladiator Bushtail
+158	Exterminator Bushi
+159	Sick Bushtail
+160	Strong Bushi Trainer
+161	Giant Mandra
+162	Dashing Mandra
+163	Soldier Spider
+164	Slade
+165	Slade Priest
+166	Petrified Slade
+167	Weak Red Jelly
+168	Invisible Jelly
+169	Weak Pink Jelly
+170	Weak Dark Jelly
+171	Black Spider King
+172	Weak Spike Boing
+173	Strong Spike Boing
+174	Weak UFO Boing
+175	Strong UFO Boing
+176	Santa Bushi
+177	Wollet
+178	New Year Lucky Pig
+179	Small Lizard
+180	Giant Green Lizard
+181	Fat Pigeon
+182	Weak Raccoon Bird
+183	Strong Raccoon Bird
+184	Stone Hammer Stump
+185	Steel Hammer Stump
+186	Stone Axe Stump
+187	Steel Axe Stump
+188	Strong Tree Zombie
+189	Angry Tree Zombie
+190	Maple Soul
+191	Maple Devil
+192	Cog Boing A
+193	Cog Boing B
+194	Underworld Devil
+195	Training Stake
+196	Scarescrew (Gate 1)
+197	Fire Slade
+198	Leech
+199	Mole
+200	Wolf
+201	Brutal Wolf
+202	Lion Wolf
+203	Brutal Lion Wolf
+204	Pig
+205	Strong Pig
+206	Mountain Turtle
+207	Rock Turtle
+208	Angry Beehive
+209	Dangerous Beehive
+210	Angry Swarm of Bees
+211	Dangerous Swarm of Bees
+212	Angry Queen Bee
+213	Dangerous Queen Bee
+214	Weak Spider
+215	Spider
+216	Strong Spider
+217	Small Toxi Spider
+218	Toxi Spider
+219	Large Toxi Spider
+220	Weak Spider King
+221	Spider King
+222	Strong Spider King
+223	Small Wasp
+224	Wasp
+225	Large Wasp
+226	Wiggy Wiggler
+227	Wiggler
+228	Angry Wiggler
+229	Small Wiggler
+230	Small Wiggler
+231	Small Wiggler
+232	Sick Strawee
+233	Strawee
+234	Angry Strawee
+235	Weak Skeleton Warrior
+236	Skeleton Warrior
+237	Strong Skeleton Warrior
+238	Weak Skull
+239	Weak Skull
+240	Weak Skull
+241	Weak Lava Golem
+242	Lava Golem
+243	Strong Lava Golem
+244	Old DustDeath
+245	DustDeath
+246	Ancient DustDeath
+247	Weak Darkwitch
+248	Darkwitch
+249	Bloodwitch
+250	Strong Bloodwitch
+251	Weak Deathwitch
+252	Deathwitch
+253	Ugly Spearman
+254	Ghastly Spearman
+255	Furious Skull
+256	Cursed Skull
+257	Angry Skull
+258	Weak Skull
+259	Weak Skull
+260	Weak Skull
+261	Angry Lava Golem
+262	Brutal Lava Golem
+263	Sad DustDeath
+264	Melancholy DustDeath
+265	Vicious Strawee
+266	Kukukeen
+267	Strong Darkwitch
+268	Strong Deathwitch
+269	Elite Kenko Flailman
+270	Feeble Walker
+271	Dark Gargs
+272	Skull Archer
+273	Cursed Skull Archer
+274	Skull Warrior
+275	Cursed Skull Warrior
+276	Dust King
+277	Powerful Dust King
+278	Angry Ice Fairy
+279	Brutal Ice Fairy
+280	Small Red Jelly
+281	Powerless Dust King
+282	Mother Cuby
+283	Cuby
+284	Ginseng
+285	Dark Castra
+286	Massive Slade
+287	NotUse
+288	Gruesome Demon
+289	Giant Black Spider
+290	Ginseng Plantlet
+291	Ginseng Pot
+292	Large Lizard
+293	Long-Legged Spider
+294	Invisible Dust King
+295	Emaciated Zombie Guard
+296	Lanky Zombie Guard
+297	Hunchbacked Zombie Guard
+298	Abominable Zombie Guard
+299	Gaunt Zombie Guard
+300	Mimi Mentor
+301	Teoman Topp
+302	Calvin Coach
+303	Soraya Style
+304	Eva Energy
+305	Malcolm Mix
+306	Puzzled Malcolm
+307	Korrkoaren
+308	NotUse
+309	Sword Imp
+310	Soldier of the NosVille Guards
+311	Lord Cuarry's Knight
+312	Archer of the NosVille Guards
+313	Tired Korrkoaren
+314	Korrkoaren
+315	Kenel
+316	Kenko Flailman
+317	Bob
+318	Tom
+319	Kliff
+320	Soldier of the NosVille Guards
+321	Lord Cuarry's Knight
+322	Archer of the NosVille Guards
+323	Princess Catlotte
+324	Princess Catrisha
+325	Cenil
+326	Cenil
+327	Carven
+328	Teodor Topp
+329	Kenel
+330	Titus Trip
+331	Slugg
+332	Mine Manager
+333	Chicken
+334	Big Chicken
+335	Princess Catrisha
+336	Wounded Guard
+337	Captain of the NosVille Guards
+338	Knight
+339	Knights' Captain
+340	Angry Chicken
+341	Warlock
+342	Radal
+343	Rosebud Witch
+344	Mysterious Person
+345	Sleepwalking Ghost
+346	NotUse
+347	NotUse
+348	Lucia
+349	NotUse
+350	Guard Sam
+351	Guard Jim
+352	Mine Manager Mudog
+353	Mine Manager Krispo
+354	Captain Lance
+355	Jerico
+356	Commander Ray Ramos
+357	General of the Ramos Knights
+358	Captain of the Ramos Knights
+359	Guard
+360	Mumbling Miner
+361	Rumbler
+362	Rumbler King
+363	Standing Goggloic
+364	Enchanted Sword
+365	Enchanted Bow
+366	Enchanted Morning Star
+367	Riven Frock
+368	Weak Punkie
+369	Dark Scorpion
+370	Water Grasshopper
+371	Flame Butterfly
+372	Light Tree Soul
+373	Dark Tree Soul
+374	Cold Tree Soul
+375	Warm Tree Soul
+376	Bound Soul
+377	Hellhound
+378	Demon Servant
+379	Knight Pinto
+380	Scarescrew (Gate 2)
+381	Scarescrew (Gate 3)
+382	Logs
+383	Eggy
+384	Jumpy Chicky
+385	Dancing Chicky
+386	Grumbly Chicky
+387	Gamecock
+388	Chicken King
+389	Koaren Spy
+390	Bird's Egg
+391	Flying Goggloic
+392	Koaren Chief
+393	Colly
+394	Anni
+395	Doggo
+396	Earthworm
+397	Terramonster
+398	Large Mole Cricket
+399	Foggy Colossus
+400	Soul of a Warrior
+401	Soul of an Archer
+402	Beast
+403	Kenko Spy
+404	Pinching Torturer
+405	Wheel Torturer
+406	Iron Torturer
+407	Devil Lady
+408	Bouncy Ninja Dwarf
+409	Armed Ninja Dwarf
+410	Drunk Ninja Dwarf
+411	Ninja
+412	Nonomaru
+413	Ghost-in-Love
+414	Namaju
+415	Unhappy Ninja Dwarf
+416	Mini Jajamaru
+417	Princess Sakura
+418	Brutal Namaju
+419	Violent Seedle
+420	Crazy Dander
+421	Violent Chicken
+422	Yobby Expy Miner
+423	Jajamaru
+424	Meteorite Chunk
+425	Big Tombstone
+426	Small Tombstone
+427	Strong Punkie
+428	Angry Namaju
+429	Angry Namaju
+430	Angry Namaju
+431	Angry Namaju
+432	Angry Namaju
+433	Jajamaru's Pot
+434	Cursed Beast
+435	Cursed Foggy Colossus
+436	Cursed Devil Lady
+437	Rosebud Witch
+438	Strong Whitewitch
+439	Revenant Skeleton Warrior
+440	Fire Drake
+441	Death Warrior
+442	Hell Knight
+443	Flying Fire Devil
+444	Bone Drake
+445	Chrysos
+446	Yak Warrior
+447	Yak Magician
+448	Grasslin Fairy
+449	Grasslin Fairy
+450	Giant Grasslin
+451	Small Grasslin
+452	Giant Grasslin
+453	Gate to the Land of Death
+454	Catrisha
+455	Catlotte
+456	Jack Lumber
+457	Rody Windsinger
+458	Rudy Steward
+459	Eri Windspear
+460	Erikiel's Squad
+461	Soty Bystander
+462	Khanty Darkstaker
+463	Rect Lat
+464	Recturus Lightelusion
+465	Giant Clam
+466	Treekun
+467	King Leech
+468	Fire Golem
+469	Basilisk
+470	Giant Larva
+471	NotUse
+472	Large Jellyfish
+473	Small Jellyfish
+474	Old Tree Spirit
+475	Greylander
+476	Giant Leech
+477	Sentinel
+478	Moth
+479	Mole Cricket
+480	Young Mole
+481	Mole Mother
+482	Large Hellhound
+483	Enkidu
+484	Larva
+485	Sentinel
+486	Sentinel
+487	Hell Knight
+488	Hell Knight
+489	Hell Knight
+490	Chrysos
+491	Chrysos
+492	Chrysos
+493	Basilisk
+494	Basilisk
+495	Basilisk
+496	Treekun
+497	Treekun
+498	Treekun
+499	Fabian Frost
+500	Daisy Akamur
+501	Seina Reiya
+502	Justin Darkflame
+503	Whitney Catherine
+504	Demonic Guardsman
+505	Dire Hell Guard
+506	Savage Hell Guard
+507	Kartos
+508	Benteruke
+509	Pelicert
+510	Archtheridon Hellduke
+511	Echekaruel Mysticaron
+512	Dr. W
+513	Bushtail
+514	Exterminator Bushi
+515	Kupei Karustier
+516	Arcke
+517	Angel Jabiniel
+518	Angel Israel
+519	Angel Reedwhanel
+520	Enkidu
+521	Arnold Artisan
+522	Isaac Artisan
+523	Noelia Rosa
+524	Margaret
+525	Alice Bellia
+526	Marvin Magicus
+527	Edward
+528	Lucia
+529	Airwaves Sign
+530	Santa Claus
+531	Snowman
+532	Snowman Head
+533	Huge Snowman Head
+534	Benito Butler
+535	Snowman
+536	New Year Lucky Pig
+537	Lucky Rat
+538	Aurelius Roshu
+539	Rudin Albisco
+540	Leika Passage
+541	Seal Refugee
+542	NotUse
+543	Cappen
+544	Kangpen
+545	Jackpen
+546	Gnoll Scout
+547	Gnoll Warrior
+548	NotUse
+549	Giant Yeti
+550	NotUse
+551	Prota
+552	Ice Witch
+553	Lace
+554	NotUse
+555	Ice Worm
+556	Lord Mukraju
+557	Ross Hisrant
+558	Lucky Rat
+559	Mokan Warrior
+560	Mokan Hunter
+561	Powerful Molda's Warrior
+562	Powerful Molda's Warlock
+563	Lord Morcos
+564	White Seal
+565	Hemil Melius
+566	Amelia Glacia
+567	Egg Fairy
+568	Leika Passage
+569	Little Suspicious Gnoll Scout
+570	Suspicious Gnoll Scout
+571	Very Suspicious Gnoll Scout
+572	Extremely Suspicious Gnoll Scout
+573	Dark Guardian Eye
+574	Dark Hunter
+575	Shadow Predator
+576	Dark Hermit
+577	Lord Hatus
+578	Alfred Erudio
+579	Enkidu
+580	Hellhound
+581	Aqua Bushtail
+582	Strong Ginseng
+583	Strong Basilisk
+584	King Potato Stem
+585	Great King Potato Stem
+586	King Potato Monster
+587	Lord Mukraju
+588	Giant Chick
+589	Thousand-Year-Old Mandra
+590	Hell's Guard Dog
+591	Giant Gamecock
+592	Thousand-Year-Old Potato
+593	Satan's Lapdog
+594	Giant Warepard
+595	Satellite Boing
+596	Root Devil
+597	Muscular Slade
+598	Shadow King
+599	Slade Golem
+600	Mini Castra
+601	Death Knight
+602	Fat Leech
+603	Thousand-Year-Old Ginseng
+604	Basilisk King
+605	Giant Warrior
+606	Cursed Tree
+607	King Crab
+608	Docile Yeti
+609	Molda's Warrior
+610	Molda's Warlock
+611	Great King Potato Monster
+612	none
+613	Fabian Frost
+614	Special Ops Bushi
+615	Green Bushi
+616	Red Bushi
+617	Crystal Cave Guard Dog
+618	Crystal Cave Gatekeeper
+619	Crystal Cave Priest
+620	Crystal Cave Guardian
+621	Emerald Phantom
+622	Sapphire Phantom
+623	Ruby Phantom
+624	Lord Berios
+625	Ocean Hunter
+626	Ocean Guardian
+627	Ocean Overseer
+628	Chaser Fish
+629	Lady Calvinas
+630	Black Bushi
+631	Blue Bushi
+632	Yellow Bushi
+633	Turquoise Bushi
+634	Pink Bushi
+635	Super Samurai Bushi
+636	Scary Pet Trainer
+637	Strong Demon Dog Kertos
+638	Football Bushi (DE)
+639	Football Bushi (FR)
+640	Football Bushi (EN)
+641	Football Bushi (IT)
+642	Football Bushi (ES)
+643	Football Bushi (PL)
+644	Football Bushi (RU)
+645	none
+646	none
+647	none
+648	none
+649	none
+650	none
+651	none
+652	none
+653	none
+654	none
+655	none
+656	none
+657	none
+658	none
+659	none
+660	none
+661	none
+662	none
+663	Pegasus
+664	Cute Bunny
+665	Cappen King
+666	Junior Gnoll Battlescout
+667	Football Bushi (CZ)
+668	Fierce Prota
+669	Football Bushi (TR)
+670	Fibi Frosty
+671	Mini Fire Devil
+672	Blackwing Imp
+673	Red-nosed Reindeer
+674	Amora
+675	Amora
+676	Fallen^Officer^Chris
+677	Young^Red^Wolf
+678	Red^Wolf
+679	Angel Guardian
+680	Demon Guardian
+681	Old^Red^Wolf
+723	Giant Pink Jelly
+724	Strong Hell Knight
+725	Strong Greylander
+727	Young Gnoll Scout
+728	Enkidu Offspring
+729	Docile Yeti
+730	Summoned Jackpen
+731	Summoned Kangpen
+732	Ugly Rudolph
+733	Abominable Rudolph
+734	Ugly Rudolph
+735	Abominable Rudolph
+736	Ugly Rudolph
+737	Abominable Rudolph
+738	Ugly Rudolph
+739	Abominable Rudolph
+740	Wicked Snowman
+741	Wicked Snowman
+742	Wicked Snowman
+743	Wicked Snowman
+744	Ugly Rudolph
+745	Abominable Rudolph
+746	Ugly Rudolph
+747	Super Santa Bushi
+748	Weak Fire Devil
+749	Abominable Rudolph
+750	Wicked Snowman
+751	Wicked Snowman
+752	Bull Bushtail
+753	Snow Basilisk
+754	Snow Lion
+755	Snow Fox
+756	Bull Bushtail
+762	Samurai Bushtail
+769	Boxer Bushi
+770	Summoned Ocean Hunter
+771	Summoned Ocean Guardian
+774	Chicken Queen
+778	Football Bushtail
+779	Referee Bushtail
+780	Summoned Crystal Cave Guard Dog
+781	Summoned Crystal Cave Gatekeeper
+782	Summoned Crystal Cave Priest
+783	Summoned Crystal Cave Guardian
+784	Rusty Robby
+789	Mouldy Potato
+793	Bibi Basar
+794	Super Pumpkin Bushi
+795	Bunny Thief
+796	Angry Chicken King
+797	Giant Bird's Egg
+798	Giant Bird's Egg
+799	Giant Jumpy Chicky
+800	Giant Grumbly Chicky
+801	Jumpy Chicky
+802	Grumbly Chicky
+803	Chick Norris
+813	Rudolph Bushi
+814	Shogun Bushi
+815	Centurio Bushi
+816	Young Rudolph Bushi
+817	Icy Ike (m)
+818	Icy Isa (f)
+819	Crazy Chris (m)
+820	Crazy Chrissy (f)
+821	Mini Kangpen
+822	Leona
+823	Darko
+824	Young Bouncing Jelly
+825	Bouncing Jelly
+826	Young Hopping Jelly
+827	Hopping Jelly
+828	Seraphim
+829	Rudi Rowdy
+830	Young Rudi Rowdy
+831	Aegir's Soul
+832	Freya's Soul
+833	Barni's Soul
+834	Sealed Young Rudi Rowdy
+835	Mean Yeti
+836	Fluffy Bally
+838	Navy Bushtail
+839	Bushi King
+840	Leo the Coward
+841	Ninja Bushtail
+842	Indian Bushi
+843	Viking Bushi
+844	Cowboy Bushtail
+845	Mini Ninja Bushtail
+846	Puss in Boots
+848	Jajamaru's Trap
+849	Bamboo Sticks
+850	Morning Star
+851	Falling Rock
+852	Baby Spider
+853	Dead Kovolt
+854	Black Meteorite
+855	Scroll of Illumination
+856	Teleportation Stone
+857	Laboratory Observer
+858	Fragrant Grass
+859	Deep Well
+860	Broken Red Plate
+861	Tree Stump
+862	Blossom Tree
+863	Kovolt Statue
+864	Pentagram
+865	Evil Circle
+866	Sacred Shrub
+867	Holy Altar
+868	Magic Branch
+869	Sniffer's Nest
+870	Level 20 Quest Giver
+871	Level 21-1 Quest Giver
+872	Level 21-2 Quest Giver
+873	Level 21-3 Quest Giver
+874	Level 21-4 Quest Giver
+875	Level 21-5 Quest Giver
+876	Level 21-6 Quest Giver
+877	Level 22-1 Quest Giver
+878	Level 22-2 Quest Giver
+879	Level 22-3 Quest Giver
+880	Wheat
+881	Iron Ore
+882	Level 25-1 Quest Giver
+883	Level 25-2 Quest Giver
+884	Level 25-3 Quest Giver
+885	Level 25-4 Quest Giver
+886	Level 25-5 Quest Giver
+887	Level 25-6 Quest Giver
+888	Level 25-7 Quest Giver
+889	Level 25-8 Quest Giver
+890	Level 25-9 Quest Giver
+891	Level 25-10 Quest Giver
+892	Strange Trace
+893	Mysterious Well
+894	Mysterious Well
+895	Bird Nest
+896	Golden Nest
+897	Magic Well
+898	Weird Well
+899	Magic Branch
+900	Bushtail Trainer
+901	Magic Branch
+902	Magic Branch
+903	Bound Soul Body
+904	Riven Frock Bringer
+905	Wanted List
+906	Shinebone Statue
+907	Damaged Guard Post
+908	Soft Ground
+909	Rough Ground
+910	Sparkling Rock
+911	Broom
+912	Rice Plant
+913	Statue of Terror
+914	Fruit Tree
+915	Score Board
+916	Red Stone
+917	Broken Shinebone Statue
+918	Kenko Spy Giver 1
+919	Kenko Spy Giver 2
+920	Small Signpost
+921	Large Signpost
+922	Large Rainbow Crystal
+923	Medium Rainbow Crystal
+924	Small Rainbow Crystal
+925	Kenko Spy Giver 3
+926	Kenko Spy Giver 4
+927	Rosebud Whitewitch
+928	Daisy
+929	Iris
+930	Time-Space Portal
+931	Fairy Clue
+932	Yellow Soulstone
+933	Red Soulstone
+934	Blue Soulstone
+935	Mysterious Soulstone
+936	Mysterious Soulstone
+937	Mysterious Soulstone
+938	Chrysos Statue
+939	Well
+940	Mysterious Person
+941	Big Red Flower
+942	Well
+943	Well
+944	Well
+945	Bomb
+946	Fire Mine
+947	Ancient Soul
+948	Golden Soulstone
+949	Holy Well
+950	Blackout Mandra
+951	Anti-Buff Mandra
+952	Mysterious Soulstone
+953	Mysterious Soulstone
+954	Grey Soulstone
+955	Teleportation Tower
+956	Small Campfire
+957	Large Campfire
+958	Monster Summoning Portal
+959	Ice Machine
+960	Strong Bushtail
+961	Fire Bushtail
+962	Water Bushtail
+963	Light Bushtail
+964	Shadow Bushtail
+965	Angel Base Camp
+966	Demon Base Camp
+967	Altar of Angels
+968	Altar of Demons
+969	Rolling Stone 1
+970	Rolling Stone 2
+971	Rudolph's Pet Trainer
+972	Angel Ice Attack
+973	Demon Ice Attack
+974	Lotus Flower
+979	Giant Kenko Raider
+985	Easter Sack
+988	Mysterious Egg
+1000	Sea Sand Fish
+1001	Sea Sand Prota
+1002	Sea Sand Cutter
+1003	Sea Sand Predator
+1004	Sea Sand Creeper
+1005	Sea Sand Spike Creeper
+1006	Sea Sand Blade Horn
+1007	Sea Sand Fox
+1008	Sea Sand Cactus
+1009	Sea Sand Mantis
+1010	Sea Sand Scorpion
+1011	Sea Sand Basilisk
+1012	Prayer Monk
+1013	Prayer Spirit
+1014	Prayer Priest
+1015	Prayer Leader
+1016	Commander Neil
+1017	Commander Melki
+1018	Commander Keru
+1019	Commander Garton
+1020	Neil's Patrol Samurai
+1021	Neil's Patrol Assassin
+1022	Neil's Patrol Hunter
+1023	Neil's Patrol Bomber
+1024	Neil's Jailer
+1025	Neil's Storekeeper
+1026	Neil's Key Master
+1027	Neil's Patrol Spy
+1028	Ibrahim
+1029	Commander Shoran
+1030	Commander Shay
+1031	Neil's Patrol Scout
+1032	Sandstorm
+1033	Sand Spirit
+1034	Sand Giant
+1035	Sand Dwarf
+1036	Antique Relic Administrator
+1037	Wind Sand Spirit
+1038	Wind Sand Gladiator
+1039	Wind Sand Archer
+1040	Wind Sand Mage
+1041	Gatekeeper of the Ancient Ruins
+1042	Magmaros
+1043	Flame Spider Valaket
+1044	Valakus King of Fire
+1045	Blaze Hound
+1046	Kertos the Demon Dog
+1047	Flame Giant
+1048	Strong Burning Leash
+1049	Lava Ghost
+1050	none
+1051	Phoenix
+1052	none
+1053	Blazing Creature
+1054	Grail the Tremendous Phoenix
+1055	Blade of Glistening Heat
+1056	Shield of Glistening Heat
+1057	Lance of Glistening Heat
+1058	Fire God Grenigas
+1059	Rody Windsinger
+1060	Jin Hamadin
+1061	Lighthouse Guard Chilton
+1062	Harbour Guard Tom
+1063	President Noah
+1064	Hazel
+1065	Priestess Serizad
+1066	High Priest Eladin
+1067	Priestess Vera
+1068	Riana
+1069	Serena
+1070	Nephi
+1071	Representative Semia
+1072	Paul
+1073	Delmon Milow
+1074	Akamur Merchant Guard
+1075	Akamur Merchant Representative
+1076	Akamur Merchant
+1077	Inhabitant
+1078	Inhabitant
+1079	Ghost of a Treasure Hunter
+1080	Dead Treasure Hunter
+1081	Soul of a Priest
+1082	Dead Priest
+1083	Resting Robber
+1084	Camel
+1085	Hamid
+1086	Prisoner Sharif
+1087	Representative Rushaldin
+1088	Kamil
+1089	Michol
+1090	Xavier
+1091	Velmon
+1092	Chaos Militia
+1093	Maloren Desert Pillager
+1094	Bolporti the Silk Weaver
+1095	Chaos Zone Inhabitant
+1096	Chaos Zone Inhabitant
+1097	Inspector Serges
+1098	Mysterious Traveller
+1099	Grenigas' Phantom
+1100	Neil's Elite Samurai
+1101	Neil's Elite Assassin
+1102	Neil's Elite Hunter
+1103	Neil's Elite Bomber
+1104	Storm Sand Fish
+1105	Storm Sand Prota
+1106	Storm Sand Cutter
+1107	Storm Sand Predator
+1108	Storm Sand Blade Horn
+1109	Storm Sand Mantis
+1110	Storm Sand Scorpion
+1111	Storm Sand Basilisk
+1112	Dust Sand Fish
+1113	Dust Sand Prota
+1114	Dust Sand Cutter
+1115	Dust Sand Predator
+1116	Dust Sand Blade Horn
+1117	Dust Sand Mantis
+1118	Dust Sand Scorpion
+1119	Dust Sand Basilisk
+1120	Quicksand Predator
+1121	Quicksand Mantis
+1122	Quicksand Scorpion
+1123	Quicksand Basilisk
+1124	Storm Sand Creeper
+1125	Storm Sand Spike Creeper
+1126	Storm Sand Cactus
+1127	Dust Sand Creeper
+1128	Dust Sand Spike Creeper
+1129	Dust Sand Cactus
+1130	Quicksand Cactus
+1131	Storm Sand Fox
+1132	Dust Sand Fox
+1133	Melki's Patrol Samurai
+1134	Melki's Patrol Assassin
+1135	Melki's Patrol Hunter
+1136	Melki's Patrol Bomber
+1137	Melki's Patrol Spy
+1138	Melki's Patrol Scout
+1139	Melki's Key Master
+1140	Melki's Jailer
+1141	Melki's Elite Samurai
+1142	Melki's Elite Assassin
+1143	Melki's Elite Hunter
+1144	Melki's Elite Bomber
+1145	Shay's Patrol Samurai
+1146	Keru's Patrol Samurai
+1147	Keru's Patrol Assassin
+1148	Keru's Patrol Hunter
+1149	Keru's Patrol Bomber
+1150	Keru's Patrol Spy
+1151	Keru's Patrol Scout
+1152	Keru's Key Master
+1153	Keru's Jailer
+1154	Keru's Elite Samurai
+1155	Keru's Elite Assassin
+1156	Keru's Elite Hunter
+1157	Keru's Elite Bomber
+1158	Shay's Patrol Assassin
+1159	Garton's Patrol Samurai
+1160	Garton's Patrol Assassin
+1161	Garton's Patrol Hunter
+1162	Garton's Patrol Bomber
+1163	Garton's Patrol Spy
+1164	Garton's Patrol Scout
+1165	Garton's Key Master
+1166	Garton's Jailer
+1167	Garton's Elite Samurai
+1168	Garton's Elite Assassin
+1169	Garton's Elite Hunter
+1170	Garton's Elite Bomber
+1171	Shay's Patrol Hunter
+1172	Lamentation Monk
+1173	Lamentation Spirit
+1174	Lamentation Priest
+1175	Lamentation Leader
+1176	Monk of Unrest
+1177	Spirit of Unrest
+1178	Priest of Unrest
+1179	Leader of Unrest
+1180	Monk of Agony
+1181	Spirit of Agony
+1182	Priest of Agony
+1183	Leader of Agony
+1184	Desert Sand Storm
+1185	Desert Sand Spirit
+1186	Desert Sand Giant
+1187	Desert Sand Dwarf
+1188	Dust Sand Storm
+1189	Dust Sand Spirit
+1190	Dust Sand Giant
+1191	Desert Sand Dwarf
+1192	Quicksand Storm
+1193	Quicksand Spirit
+1194	Quicksand Giant
+1195	Quicksand Dwarf
+1196	Volcano Sand Spirit
+1197	Volcano Sand Gladiator
+1198	Volcano Sand Archer
+1199	Volcano Sand Mage
+1200	Dune Spirit
+1201	Dune Gladiator
+1202	Dune Archer
+1203	Dune Mage
+1204	Dry Sand Spirit
+1205	Dry Sand Gladiator
+1206	Dry Sand Archer
+1207	Dry Sand Mage
+1208	Shay's Patrol Bomber
+1209	Shoran's Patrol Samurai
+1210	Shoran's Patrol Assassin
+1211	Shoran's Patrol Hunter
+1212	Shoran's Patrol Bomber
+1213	Shay's Patrol Samurai
+1214	Shay's Patrol Assassin
+1215	Shay's Patrol Hunter
+1216	Shay's Patrol Bomber
+1217	Shoran's Patrol Samurai
+1218	Shoran's Patrol Assassin
+1219	Shoran's Patrol Hunter
+1220	Shoran's Patrol Bomber
+1221	Shay's Transport Samurai
+1222	Shay's Transport Assassin
+1223	Shay's Transport Hunter
+1224	Shay's Transport Bomber
+1225	Shoran's Transport Samurai
+1226	Shoran's Transport Assassin
+1227	Shoran's Transport Hunter
+1228	Shoran's Transport Bomber
+1229	Shoran's Samurai Escort
+1230	Shoran's Assassin Escort
+1231	Shoran's Hunter Escort
+1232	Shoran's Bomber Escort
+1233	Shay's Samurai Escort
+1234	Shay's Assassin Escort
+1235	Shay's Hunter Escort
+1236	Shay's Bomber Escort
+1237	Desert Sand Fish
+1238	Desert Sand Prota
+1239	Desert Sand Cutter
+1240	Desert Sand Predator
+1241	Desert Sand Blade Horn
+1242	Desert Sand Mantis
+1243	Desert Sand Scorpion
+1244	Desert Sand Basilisk
+1245	Spirit Sand Fish
+1246	Spirit Sand Prota
+1247	Spirit Sand Cutter
+1248	Spirit Sand Predator
+1249	Spirit Sand Blade Horn
+1250	Spirit Sand Mantis
+1251	Spirit Sand Scorpion
+1252	Spirit Sand Basilisk
+1253	Desert Sand Creeper
+1254	Desert Sand Spike Creeper
+1255	Desert Sand Cactus
+1256	Spirit Sand Creeper
+1257	Spirit Sand Spike Creeper
+1258	Spirit Sand Cactus
+1259	Desert Sand Fox
+1260	Spirit Sand Fox
+1261	Prisoner
+1262	Camp Guard
+1263	Representative Mursha
+1264	Bag of Prickly Pears
+1265	Neil's Mailbox
+1266	Prisoner Humad
+1267	Priestess Nora
+1268	Guard Putran
+1269	Fortune-Teller Nuki
+1270	Assistant Shane
+1271	Abandoned Amakur Merchant Chest
+1272	Ruined Trade Goods
+1273	Pillaged Trade Goods
+1274	Destroyed Akamur Flag
+1275	First Trade Goods
+1276	Second Trade Goods
+1277	Third Trade Goods
+1278	Fourth Trade Goods
+1279	Fifth Trade Goods
+1280	Sixth Trade Goods
+1281	Chest of Command Lists
+1282	Suspicious Potion
+1283	Keru's Strange Chest
+1284	Garton's Strange Chest
+1285	Keru's Stolen Relics
+1286	Garton's Stolen Relics
+1287	Stolen Relics
+1288	Chest of Scrolls
+1289	Strange Relic Piece
+1290	Shay's Patrol Samurai
+1291	Shay's Patrol Assassin
+1292	Shay's Patrol Hunter
+1293	Shay's Patrol Bomber
+1294	Shoran's Patrol Samurai
+1295	Shoran's Patrol Assassin
+1296	Shoran's Patrol Hunter
+1297	Shoran's Patrol Bomber
+1298	Shoran's Guard Samurai
+1299	Shoran's Guard Assassin
+1300	Shoran's Guard Hunter
+1301	Shoran's Guard Bomber
+1302	Shay's Guard Samurai
+1303	Shay's Guard Assassin
+1304	Shay's Guard Hunter
+1305	Shay's Guard Bomber
+1306	Desert Robber Key Master
+1307	Desert Robber Jailer
+1308	Broken Relics
+1309	Destroyed Relic
+1310	Sealed Chest
+1311	Broken Relic Pieces
+1312	Broken Relic Pieces
+1313	Broken Relic Pieces
+1314	Broken Relic Pieces
+1315	First Script Tablet
+1316	Second Script Tablet
+1317	Third Script Tablet
+1318	Broken Script Tablet
+1319	Broken Script Tablet
+1320	Broken Script Tablet
+1321	Broken Script Tablet
+1322	Dead Monk
+1323	Dead Clergyman
+1324	Dust Sand Golem
+1325	Quicksand Golem
+1326	Desert Sand Golem
+1327	Chest of Fairy Dust
+1328	Letter to the Desert Robber Leader
+1329	Traveller's Diary
+1330	Poison Bottle
+1331	Elf's Leather Bag
+1332	Earth Fairy Dust
+1333	Wind Fairy Dust
+1334	Sand Fairy Dust
+1335	Medicine Bottle
+1336	Akamur Merchant Chest
+1337	Akamur Merchant Chest
+1338	Lost Chest (Keru's Camp)
+1339	Lost Chest (Garton's Camp)
+1340	Lost Goods (Desert Robber Camp)
+1341	Lost Chest (Robber Centre)
+1342	Undiscovered Strange Chest
+1343	Roram
+1344	Supply Officer Jamal
+1345	Supply Officer Aaron
+1346	Robber Gang Chest
+1347	Treasure Chest of Oblivion
+1348	Strange Chest
+1349	Isalin
+1350	Isalin
+1351	Isalin
+1352	Elite Samurai
+1353	Elite Assassin
+1354	Elite Hunter
+1355	Elite Bomber
+1356	Camp Commander Neil
+1357	Camp Commander Melki
+1358	Commander Keru
+1359	Camp Commander Garton
+1360	Commander Shoran
+1361	Commander Shay
+1362	Supply Officer Ulman
+1363	Samira
+1364	Elias
+1365	Eldin
+1366	Elly
+1367	Tinkerer
+1368	Magic Scooter (m)
+1369	Magic Scooter (f)
+1370	Magic Carpet (m)
+1371	Magic Carpet (f)
+1372	Antique Relics Administrator, 1st Observer
+1373	Antique Relics Administrator, 2nd Observer
+1374	Antique Relics Administrator, 3rd Observer
+1375	Sleeping Transport Unit
+1376	Sleeping Patrol
+1377	Dead Elite Unit
+1378	Rockslide
+1379	Harbour Resident
+1380	Harbour Resident
+1381	Jack O'Lantern
+1382	Pumpkin Bomb
+1383	Jack O'Lantern's Henchmen
+1384	Pumpkin Bushtail
+1385	Halloween Signpost
+1386	Sealed Pink Jelly
+1387	Sealed Chicky
+1388	Sealed Kenko Storm Soldier
+1389	Sealed Hellhound
+1390	Sealed Gamecock
+1391	Sealed Vampie
+1392	Sealed Satan's Lapdog
+1393	Sealed Hell Knight
+1394	Sealed Gargs
+1395	Sealed Boing
+1396	Sealed Slade
+1397	Sealed Fire Devil
+1398	Sealed King Crab
+1399	Sealed Ice Witch
+1400	Sealed Beast
+1401	Sealed Foggy Colossus
+1402	Sealed Greylander
+1403	Sealed Ginseng
+1404	Sealed Shadow King
+1405	Sealed Slade Golem
+1406	Magic White Tiger (m)
+1407	Magic White Tiger (f)
+1408	Shadow Phantom
+1409	Shadow Phantom
+1410	Shadow Phantom
+1411	Magic Convertible (m)
+1412	Magic Convertible (f)
+1413	Professor Edward
+1414	Sealed Pink Jelly
+1415	Sealed Red Jelly
+1416	Sealed Small Horn Imp
+1417	Sealed Horn Imp
+1418	Sealed Dark Jelly
+1419	Sealed Large Horn Imp
+1420	Sealed Wolf
+1421	Sealed Pig
+1422	Sealed Mountain Turtle
+1423	Sealed Lion Wolf
+1424	Sealed Yeti
+1425	Sealed Super Santa Bushi
+1426	Ugly Rudolph
+1427	Abominable Rudolph
+1428	Easter Signpost
+1429	Fluffy McFly (m)
+1430	Fluffy McFly (f)
+1431	Salim
+1432	Horned Sweeper Rider (m)
+1433	Horned Sweeper Rider (f)
+1434	Sealed Young Rudolph Bushi
+1435	Flake the Snow Fairy
+1436	Mobile Trap
+1437	Hunting Falcon
+1438	Smog Cloud
+1439	Giant Swirl
+1440	Magic Sleigh (m)
+1441	Magic Sleigh (f)
+1442	Sleigh with Red-nosed Reindeer (m)
+1443	Sleigh with Red-nosed Reindeer (f)
+1444	Magic Donkey Piñata (m)
+1445	Magic Donkey Piñata (f)
+1499	Pirate Flag Signpost
+1500	Captain Pete O'Peng
+1501	Pirate Kangpen
+1502	Pirate Jackpen
+1503	Pirate Cappen
+1504	Captain Jack Panon
+1505	Pirate Bushi (Water)
+1506	Pirate Bushi (Fire)
+1507	Pirate Bushi (Light)
+1508	Pirate Bushi (Shadow)
+1509	Mini Jackpen
+1510	Pirate Pet Trainer
+1511	Winnie Whitefeather (m)
+1512	Winnie Whitefeather (f)
+1513	Magical Camel (m)
+1514	Magical Camel (f)
+1515	Eric
+1516	Mary
+1517	Nossi the Dragon (m)
+1518	Nossi the Dragon (f)
+1519	Christmas Signpost
+1520	'Billy Boneshaker' Bike (m)
+1521	'Billy Boneshaker' Bike (f)
+1522	'Blazing Blades' In-line Skates (m)
+1523	'Blazing Blades' In-line Skates (f)
+1524	'Doni Darkslide' Skateboard (m)
+1525	'Doni Darkslide' Skateboard (f)
+1526	White Unicorn
+1527	White Unicorn
+1528	Pink Unicorn
+1529	Pink Unicorn
+1530	Black Unicorn
+1531	Black Unicorn
+1900	Desert Robber Exploration Team Samurai
+1901	Desert Robber Exploration Team Hunter
+1902	Desert Robber Exploration Team Bomber
+1903	High Priest of the Fire God
+1904	Kertos' Shadow
+1905	Valakus' Shadow
+1906	Smouldering Lava Stone
+1907	Relic Guardian
+1908	Mysterious Traveller
+1909	Agile Blaze Hound
+1910	Snappy Blaze Hound
+1911	Burning Leash
+1912	Kertos' Shadow
+1913	Lava Ghost
+1914	Blaze Hound Apparition
+1915	Kertos' Pup
+1916	Magmaros Apparition
+1917	Valaket Apparition
+1918	Strong Magmaros
+1919	Strong Valaket
+1920	Strong Lava Ghost
+1921	Spider Egg
+1922	Valakus' Egg
+1923	Blazing Magmaros
+1924	Blazing Valaket
+1925	Fiery Giant
+1926	Fire God Protector
+1927	Phoenix Egg
+1928	Peculiar UFO (m)
+1929	Peculiar UFO (f)
+1930	Marco Pollo (m)
+1931	Marco Pollo (f)
+1932	Windsurfer (m)
+1933	Windsurfer (f)
+1934	Yellow Jeep (m)
+1935	Yellow Jeep (f)
+1936	Blue Jeep (m)
+1937	Blue Jeep (f)
+1938	Red Jeep (m)
+1939	Red Jeep (f)
+1940	Cyan Jeep (m)
+1941	Cyan Jeep (f)
+1942	Black Jeep (m)
+1943	Black Jeep (f)
+1944	Pink Jeep (m)
+1945	Pink Jeep (f)
+2000	Akamur Merchant Military Engineer
+2001	John the Adventurer
+2002	Mysterious Pattern
+2003	Glittering Sand Pile
+2004	Ice Flower
+2005	Seal
+2006	Broken Seal
+2007	Fallen Spirit
+2008	Fallen Spirit
+2009	Seal Protector
+2010	Gaunt Zombie Guard
+2011	Weak Seal Protector
+2012	Spider Egg
+2013	Valakus' Egg
+2014	Lava Pit
+2015	Valakus' Hatchling
+2016	Valakus' Egg
+2017	Crystal of Life
+2018	Lava Fountain
+2019	Fire Alchemist
+2020	Ice Flower
+2033	Great Magician Kan
+2034	Lord Draco
+2035	Fiery Achilles
+2036	Achilles' Golem
+2037	Achilles' Skull Shooter
+2038	Achilles' Skull Warrior
+2039	Achilles' Flame
+2040	Roberto Lusso
+2041	Irene Williams
+2042	Harold of Nos
+2043	Draco's Flame Giant
+2044	Draco's Lava Spirit
+2045	Felix Frost
+2046	Glacerus' Enkidu
+2047	Glacerus' Ice Worm
+2048	none
+2049	Glacerus the Ice Cold
+2050	none
+2051	Frozen Soulstone
+2052	Zangpo
+2053	Falco
+2054	Elisia
+2055	Ice Cold Prier
+2056	Ice Cold Combat Soldier
+2057	Ice Cold Ice Witch
+2058	Ice Cold Lion Wolf
+2059	Laraneya
+2060	Glacerus' Ice Seal
+2100	Garrison Ghost
+2101	Bodyguard's Ghost
+2102	Archer's Ghost
+2104	Mini-Inferno
+2105	Inferno
+2106	Flare
+2107	Blaze
+2108	Tei Ken
+2109	Victoria
+2110	Steve Stuff
+2111	Collector Akon
+2112	Summoned Dark Clone
+2113	Summoned Dark Clone
+2114	Summoned Dark Clone
+2115	Summoned Dark Clone
+2116	none
+2117	none
+2118	Yellow^Lamb
+2119	Yellow^Sheep
+2120	Golden^Fleece
+2200	Water Bushi
+2201	Fire Bushi
+2202	Centurio Bushi
+2203	Boxer Bushi
+2204	Mini Pegasus
+2205	Summoned Kangpen
+2206	Summoned Angry Chick
+2207	Summoned Yeti
+2208	Mini Rudi
+2300	Dark Magician
+2301	Dark Knight
+2302	Warlock
+2303	Dusky Archer
+2304	Black Wolf
+2305	Caligor
+2306	Mysterious Traveller
+2307	Sarakael
+2308	Lilith
+2309	Foxy
+2311	Mr Park's First Son
+2312	Mr Park's Second Son
+2313	Mr Park's Third Son
+2314	Rabid Fox
+2315	Rabid Dusi-Fox
+2316	Maru
+2317	Mad^March^Hare
+2318	Rice Cake Basket
+2319	Rope
+2320	Rope
+2321	Terrified Siblings
+2322	Maru
+2323	Wanderer
+2324	Tiger Hamster
+2325	Toxic Tiger Hamster
+2326	Witch Laurena
+2327	Laurena's Beast
+2328	none
+2329	Cheese Chunk
+2330	Grass Clump
+2331	Imp Hongbi
+2332	Imp Cheongbi
+2333	Imp Hongbi Clone
+2334	Imp Cheongbi Clone
+2335	Gourd
+2336	Hungbu
+2337	Nolbu
+2338	Injured Swallow
+2339	Hungbu's Gourd
+2340	Nolbu's Gourd
+2341	Aggressive Hongbi Clone
+2342	Aggressive Cheongbi Clone
+2343	Crazy^Egg^Bomb
+2344	Eggy^Bomb
+2345	Rotten^Egg^Bomb
+2350	Poison Plant of Damnation
+2351	Shocked Soldier
+2352	none
+2353	none
+2354	Bewitched Soldier
+2357	Lola Lopears
+2358	Raphael
+2359	Lola's Bed Bunny
+2360	Giant Carrot
+2361	Giant Carrot
+2362	Bunny Burrow
+2363	Lola's Master Bunny
+2364	none
+2365	Giant Carrot
+2366	Bunny Burrow
+2367	Hugo Hero
+2368	none
+2369	none
+2370	none
+2371	Onyx Dragon's Shadow
+2500	Rozhanik
+2501	Esther
+2502	Lazekiel
+2503	Zealot
+2504	Zenas
+2505	Crusader of the Second Squad
+2506	Zenas' Guardian Knight
+2507	Zenas' Guardian Commander
+2508	Zenas' Guardian Mage
+2509	Zenas' Priest
+2510	Tallion
+2511	Rement
+2512	Ismatte
+2513	Bacoom
+2514	Erenia
+2515	Elite Zealot
+2516	Erenia's Guardian Knight
+2517	Erenia's Guardian Commander
+2518	Erenia's Guardian Mage
+2519	Erenia's Priest
+2520	Elite Bacoom
+2521	Sentinel
+2522	Mystic Knight
+2523	Mysticaron
+2524	Shadow Knight Deront
+2525	Ghastly Spearman
+2526	Death Warrior
+2527	Hell Knight
+2528	NotUse
+2529	Dark Castra
+2530	Archtheridon Hellduke
+2531	Revenant Skeleton Warrior
+2532	Crusader of the Sixth Squad
+2533	Crusader of the Sixth Squad
+2534	Crusader of the Sixth Squad
+2535	Crusader Commander
+2536	Priest of Transformation
+2537	Priest of Supply
+2538	Skill Book Expert
+2539	Crusader Graham
+2540	Crusader Graham
+2541	Panuel
+2542	Eligos
+2543	Asahel
+2544	Ramiel
+2545	Zaqiel
+2546	Barak
+2547	Zepar
+2548	Polneus
+2549	Initiate of the Second Squad
+2550	Priestess Kelly of the Second Squad
+2551	Priestess Molly of the Second Squad
+2552	Overseer Amon
+2553	Archangel Lucifer
+2554	Zenas' Magic Field
+2555	Broken Seal
+2556	Guardian Stone
+2557	Graham
+2558	Giant Mandra
+2559	Unknown Spirit Swordsman
+2560	Unknown Spirit Archer
+2561	Unknown Spirit Mage
+2562	Fernon's Spirit Swordsman
+2563	Fernon's Spirit Archer
+2564	Fernon's Spirit Mage
+2565	Wounded Crusader
+2566	Crazed Crusader
+2567	Brainwashed Crusader
+2568	Elite Unknown Spirit Swordsman
+2569	Elite Unknown Spirit Archer
+2570	Elite Unknown Spirit Mage
+2571	Low-Ranked Spirit Warrior
+2572	High-Ranked Spirit Warrior
+2573	Elite Fernon's Mage
+2574	Incomplete Fernon
+2575	Felice (Alchemist)
+2576	Libel
+2577	Harpago
+2578	Kirel
+2579	Astaroth
+2580	Time-Space Research Crusader
+2581	Kerzena
+2582	Eldinen
+2583	Airship Captain
+2584	Legendary Hunter
+2585	Grave Robber
+2586	Graham the Hopeful
+2587	Graham of the Abyss
+2588	Graham of Fire
+2589	Graham the Purifier
+2590	Wounded Crusader
+2591	Fernon's Small Meteor
+2592	Fernon's Large Meteor
+2593	Fernon's Grey Blade
+2594	Fernon's Black Blade
+2595	Broken Krem's Left Blade
+2596	Broken Krem's Right Blade
+2597	Wounded Crusader
+2598	Airship Captain
+2599	Statue of Goddess Zenas
+2600	Statue of Goddess Erenia
+2601	Temple Site Altar
+2602	Frigg
+2603	Ragnar
+2604	Barni's Soul
+2605	Strong Poisonous Hamster
+2606	Red Jelly
+2607	Strong Lava Golem
+2608	Strong Fire Vampie
+2609	Small Mimic
+2610	Brown Bushi
+2611	Exterminator Bushi
+2612	Sick Bushtail
+2613	Aqua Bushtail
+2614	Bull Bushtail
+2615	Samurai Bushtail
+2616	Boxer Bushi
+2617	Frigg
+2618	Ragnar
+2619	Greedy Fafnir
+2620	Erdimien
+2621	Erdimien
+2622	Utegarda
+2623	Scout
+2624	Fafnir's Fang
+2625	Fafnir's Small Tooth
+2626	Fafnir's Broken Fang
+2627	Fafnir's Small Broken Tooth
+2628	none
+2629	none
+2630	none
+2631	Lava Ghost
+2632	Seal Protector
+2633	none
+2634	Captain of the Desert Robbers
+2635	Gang of Thieves Member
+2636	Elite Thief
+2637	none
+2638	none
+2639	Twisted Yertirand
+2640	Jennifer
+2641	Wingless^Amora
+2642	Brutal Sand Giant
+2643	Brutal Sand Dwarf
+2644	Thirsty Spirit
+2645	Suspicious^Spirit^Swordsman
+2646	Desert DustDeath
+2647	Brutal Desert Sand Basilisk
+2648	Brutal Desert Wiggler
+2650	Jennifer
+2651	Yertirand
+2652	Goth Elder
+2653	Goth Girl
+2654	Pirate Captain
+2655	Pirate Captain
+2656	Wandering Desert Alchemist
+2657	Desert Weapon Shop
+2658	Guard
+2659	Quartermaster
+2660	Guard
+2661	Mysterious Traveller
+2662	Bone Drake
+2663	Living Dead
+2664	Undead
+2665	Skull Swordsman
+2666	Skull Archer
+2667	Skull Warrior
+2668	Walking Dead
+2669	Lightning
+2670	Dark Lightning
+2671	Strange Yertirand
+2672	Soldier on Leave
+2673	Yertirand
+2674	Guard
+2675	Merchant
+2676	Backstreet Alchemist
+2677	Wandering Alchemist
+2678	Bone Warrior Ragnar
+2679	Magical Bone Drake (for male characters)
+2680	Magical Bone Drake (for female characters)
+2681	Sir Purcival
+2682	Baron Scratch
+2683	Admiral Horatio Ginger
+2684	Pirate King Blackwhiskers
+2685	Mad Professor Macavity
+2686	Professor Macavity
+2687	Angry White Witch Laurena
+2688	Mad Professor Macavity's Magic Box
+2689	Catacombs Supply Box
+2690	Shining Catacombs Supply Box
+2691	none
+2692	Cuarry Bank Representative
+2693	Magic Jaguar (m)
+2694	Magic Jaguar (f)
+2695	Equipment Helper
+2696	Skelekat^Groom
+2697	Zombikit^Bride
+2698	Mysterious Person
+2699	Mysterious Person
+2700	Draconic Fist
+2701	MechaMog
+2702	Mystic Arts
+2703	Mystic Arts (Hidden)
+2704	Fortune Bushtail
+2705	Master^Wolf
+2708	Polar^Bear^Snarl
+2709	Super Fortune Bushtail
