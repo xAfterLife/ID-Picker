@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
@@ -32,7 +31,7 @@ namespace ID_Picker
 
                 for (int i = curIndex + 1; i < dataGridView1.Rows.Count - 1; i++)
                 {
-                    if (dataGridView1["Name", i].Value.ToString().ToUpper().Contains(textBox1.Text.ToUpper()))
+                    if (dataGridView1[comboBox2.Text, i].Value.ToString().ToUpper().Contains(textBox1.Text.ToUpper()))
                     {
                         dataGridView1.Rows[i].Selected = true;
                         dataGridView1.FirstDisplayedScrollingRowIndex = i;
@@ -41,7 +40,7 @@ namespace ID_Picker
                 }
                 for (int i = 0; i < curIndex + 1; i++)
                 {
-                    if (dataGridView1["Name", i].Value.ToString().ToUpper().Contains(textBox1.Text.ToUpper()))
+                    if (dataGridView1[comboBox2.Text, i].Value.ToString().ToUpper().Contains(textBox1.Text.ToUpper()))
                     {
                         dataGridView1.Rows[i].Selected = true;
                         dataGridView1.FirstDisplayedScrollingRowIndex = i;
@@ -67,6 +66,12 @@ namespace ID_Picker
                 dataGridView1.Columns.Add("Name", "Name");
                 dataGridView1.Columns[0].Width = 100;
                 dataGridView1.Columns[1].Width = dataGridView1.Width - 100 - 60;
+
+                foreach (DataGridViewColumn dg in dataGridView1.Columns)
+                {
+                    comboBox2.Items.Add(dg.Name);
+                }
+                comboBox2.SelectedIndex = 1;
 
                 if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Deutsch")
                 {
@@ -106,6 +111,12 @@ namespace ID_Picker
                 dataGridView1.Columns[2].Width = 100;
                 dataGridView1.Columns[3].Width = 100;
 
+                foreach (DataGridViewColumn dg in dataGridView1.Columns)
+                {
+                    comboBox2.Items.Add(dg.Name);
+                }
+                comboBox2.SelectedIndex = 1;
+
                 if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Deutsch")
                 {
                     foreach (string s in Properties.Resources.DE_items.Split('\n'))
@@ -139,6 +150,12 @@ namespace ID_Picker
                 dataGridView1.Columns.Add("Name", "Name");
                 dataGridView1.Columns[0].Width = 100;
                 dataGridView1.Columns[1].Width = dataGridView1.Width - 100 - 60;
+
+                foreach (DataGridViewColumn dg in dataGridView1.Columns)
+                {
+                    comboBox2.Items.Add(dg.Name);
+                }
+                comboBox2.SelectedIndex = 1;
 
                 if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Deutsch")
                 {
@@ -239,6 +256,14 @@ namespace ID_Picker
             if (e.KeyValue == 13)
             {
                 button1_Click(sender, e);
+            }
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked)
+            {
+                button5_Click(sender, e);
             }
         }
     }
