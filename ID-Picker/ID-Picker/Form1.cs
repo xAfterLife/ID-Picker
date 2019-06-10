@@ -67,6 +67,7 @@ namespace ID_Picker
                 dataGridView1.Columns[0].Width = 100;
                 dataGridView1.Columns[1].Width = dataGridView1.Width - 100 - 60;
 
+                comboBox2.Items.Clear();
                 foreach (DataGridViewColumn dg in dataGridView1.Columns)
                 {
                     comboBox2.Items.Add(dg.Name);
@@ -111,6 +112,7 @@ namespace ID_Picker
                 dataGridView1.Columns[2].Width = 100;
                 dataGridView1.Columns[3].Width = 100;
 
+                comboBox2.Items.Clear();
                 foreach (DataGridViewColumn dg in dataGridView1.Columns)
                 {
                     comboBox2.Items.Add(dg.Name);
@@ -151,6 +153,7 @@ namespace ID_Picker
                 dataGridView1.Columns[0].Width = 100;
                 dataGridView1.Columns[1].Width = dataGridView1.Width - 100 - 60;
 
+                comboBox2.Items.Clear();
                 foreach (DataGridViewColumn dg in dataGridView1.Columns)
                 {
                     comboBox2.Items.Add(dg.Name);
