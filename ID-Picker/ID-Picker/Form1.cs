@@ -1,5 +1,8 @@
 ﻿using System;
+using System.Drawing;
+using System.IO;
 using System.Linq;
+using System.Text;
 using System.Windows.Forms;
 
 namespace ID_Picker
@@ -7,6 +10,13 @@ namespace ID_Picker
     public partial class Form1 : Form
     {
         private int currentList = 0;
+        private string[] de_monsters = File.ReadAllLines(Environment.CurrentDirectory + @"\de\monsters.txt", Encoding.Default);
+        private string[] de_items = File.ReadAllLines(Environment.CurrentDirectory + @"\de\items.txt", Encoding.Default);
+        private string[] de_maps = File.ReadAllLines(Environment.CurrentDirectory + @"\de\maps.txt", Encoding.Default);
+        private string[] en_monsters = File.ReadAllLines(Environment.CurrentDirectory + @"\en\monsters.txt", Encoding.Default);
+        private string[] en_items = File.ReadAllLines(Environment.CurrentDirectory + @"\en\items.txt", Encoding.Default);
+        private string[] en_maps = File.ReadAllLines(Environment.CurrentDirectory + @"\en\maps.txt", Encoding.Default);
+        private string[] icon_item = File.ReadAllLines(Environment.CurrentDirectory + @"\item-icon.txt", Encoding.Default);
 
         public Form1()
         {
@@ -76,14 +86,14 @@ namespace ID_Picker
 
                 if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Deutsch")
                 {
-                    foreach (string s in Properties.Resources.DE_monster.Split('\n'))
+                    foreach (string s in de_monsters)
                     {
                         dataGridView1.Rows.Add(s.Split('\t'));
                     }
                 }
                 if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Englisch")
                 {
-                    foreach (string s in Properties.Resources.EN_monster.Split('\n'))
+                    foreach (string s in en_monsters)
                     {
                         dataGridView1.Rows.Add(s.Split('\t'));
                     }
@@ -121,14 +131,14 @@ namespace ID_Picker
 
                 if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Deutsch")
                 {
-                    foreach (string s in Properties.Resources.DE_items.Split('\n'))
+                    foreach (string s in de_items)
                     {
                         dataGridView1.Rows.Add(s.Split('\t'));
                     }
                 }
                 if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Englisch")
                 {
-                    foreach (string s in Properties.Resources.EN_items.Split('\n'))
+                    foreach (string s in en_items)
                     {
                         dataGridView1.Rows.Add(s.Split('\t'));
                     }
@@ -162,14 +172,14 @@ namespace ID_Picker
 
                 if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Deutsch")
                 {
-                    foreach (string s in Properties.Resources.DE_maps.Split('\n'))
+                    foreach (string s in de_maps)
                     {
                         dataGridView1.Rows.Add(s.Split('\t'));
                     }
                 }
                 if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Englisch")
                 {
-                    foreach (string s in Properties.Resources.EN_maps.Split('\n'))
+                    foreach (string s in en_maps)
                     {
                         dataGridView1.Rows.Add(s.Split('\t'));
                     }
@@ -206,14 +216,14 @@ namespace ID_Picker
                 case 1:
                     if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Deutsch")
                     {
-                        foreach (string s in Properties.Resources.DE_items.Split('\n').Where(x => x.ToUpper().Contains(textBox1.Text.ToUpper())))
+                        foreach (string s in de_items.Where(x => x.ToUpper().Contains(textBox1.Text.ToUpper())))
                         {
                             dataGridView1.Rows.Add(s.Split('\t'));
                         }
                     }
                     if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Englisch")
                     {
-                        foreach (string s in Properties.Resources.EN_items.Split('\n').Where(x => x.ToUpper().Contains(textBox1.Text.ToUpper())))
+                        foreach (string s in en_items.Where(x => x.ToUpper().Contains(textBox1.Text.ToUpper())))
                         {
                             dataGridView1.Rows.Add(s.Split('\t'));
                         }
@@ -222,14 +232,14 @@ namespace ID_Picker
                 case 2:
                     if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Deutsch")
                     {
-                        foreach (string s in Properties.Resources.DE_monster.Split('\n').Where(x => x.ToUpper().Contains(textBox1.Text.ToUpper())))
+                        foreach (string s in de_monsters.Where(x => x.ToUpper().Contains(textBox1.Text.ToUpper())))
                         {
                             dataGridView1.Rows.Add(s.Split('\t'));
                         }
                     }
                     if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Englisch")
                     {
-                        foreach (string s in Properties.Resources.EN_monster.Split('\n').Where(x => x.ToUpper().Contains(textBox1.Text.ToUpper())))
+                        foreach (string s in en_monsters.Where(x => x.ToUpper().Contains(textBox1.Text.ToUpper())))
                         {
                             dataGridView1.Rows.Add(s.Split('\t'));
                         }
@@ -238,14 +248,14 @@ namespace ID_Picker
                 case 3:
                     if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Deutsch")
                     {
-                        foreach (string s in Properties.Resources.DE_maps.Split('\n').Where(x => x.ToUpper().Contains(textBox1.Text.ToUpper())))
+                        foreach (string s in de_maps.Where(x => x.ToUpper().Contains(textBox1.Text.ToUpper())))
                         {
                             dataGridView1.Rows.Add(s.Split('\t'));
                         }
                     }
                     if (comboBox1.Items[comboBox1.SelectedIndex].ToString() == "Englisch")
                     {
-                        foreach (string s in Properties.Resources.EN_maps.Split('\n').Where(x => x.ToUpper().Contains(textBox1.Text.ToUpper())))
+                        foreach (string s in en_maps.Where(x => x.ToUpper().Contains(textBox1.Text.ToUpper())))
                         {
                             dataGridView1.Rows.Add(s.Split('\t'));
                         }
@@ -268,6 +278,36 @@ namespace ID_Picker
             {
                 button5_Click(sender, e);
             }
+        }
+
+        private void dataGridView1_SelectionChanged(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedRows.Count > 0 && currentList == 1)
+            {
+                string iconID = getItemID(dataGridView1[0, dataGridView1.SelectedRows[0].Index].Value.ToString());
+                string path = Environment.CurrentDirectory + @"\ico\" + iconID + ".png";
+                if (iconID != "" && File.Exists(path))
+                {
+                    pictureBox1.Image = Image.FromFile(path);
+                }
+                else
+                {
+                    pictureBox1.Image = pictureBox1.ErrorImage;
+                }
+            }
+        }
+
+        private string getItemID(string vnum)
+        {
+            foreach (string s in icon_item)
+            {
+                string[] sArr = s.Split('\t');
+                if (sArr[0] == vnum.ToString())
+                {
+                    return sArr[1];
+                }
+            }
+            return "";
         }
     }
 }

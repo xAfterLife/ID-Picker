@@ -1,0 +1,310 @@
+1	NosVille
+2	NosVille-Wiesen
+3	Minenprärie
+4	Sonnige Wiesen
+5	Fernonvorposten
+6	Westliche Mine 1
+7	Westliche Mine 2
+8	Nördliche Mine
+9	Westliche Mine 2
+10	Fernontempel 1
+11	Fernontempel U1
+12	Fernontempel U2
+13	Fernongruft 1
+14	Fernongruft 2
+15	Fernongruft 3
+16	Fernongruft 4
+17	Fernongruft 5
+20	Westlicher Krem
+21	Östlicher Krem
+22	Gipfel des Krem
+23	Berghöhle 1
+24	Berghöhle 2
+25	Berghöhle 3
+26	Berghöhle 4
+27	Berghöhle 5
+28	Berghöhle 6
+29	Shanera Dungeon -1
+30	Shanera Dungeon -2
+31	Shanera Dungeon -3
+32	Shanera Dungeon -4
+33	Versteckter Pfad
+41	Dunstiger Pfad
+42	Geheimes Labor 1
+43	Geheimes Labor 2
+44	Geheimes Labor 3
+46	Tannenwald
+47	Ahornwald
+49	Verzauberter Pfad
+50	Stillgelegte Mine
+51	Stillgelegte Mine 1
+52	Rittercamp
+54	Fernontempel 2
+55	Fernontempel 3
+56	Fernontempel 4
+57	Fernontempel 5
+58	Fernontempel 6
+59	Fernontempel 7
+60	Fernontempel 8
+61	Fernontempel 9
+62	Fernontempel 10
+63	Geheimer Raum
+64	Nördlicher Ausgang
+65	Östlicher Ausgang
+66	Westlicher Ausgang
+67	Rätselhafte Pforte
+68	Zauberturm 1
+69	Zauberturm 2
+70	Zauberturm 3
+71	Zauberturm 4
+72	Zauberturm 5
+73	Zauberturm 6
+74	Zauberturm 7
+75	Zauberturm 8
+76	Steinklippe 1
+77	Steinklippe 2
+78	Steinklippe 3
+79	Steinklippe 4
+80	Zickzack-Pfad
+81	Spirallabyrinth O
+82	Spirallabyrinth W
+83	Spirallabyrinth S
+84	Spirallabyrinth N
+85	Tiefe Höhle
+87	Häuptlingshöhle
+88	NosCamp-Höhle
+89	Brückenhöhle
+93	Rote Zone
+94	Blaue Zone
+95	Grüne Zone
+96	Gelbe Zone
+97	Verwüstete Zone
+98	Abendrotklippe
+99	Nebliges Tal
+100	Höhle der Geister
+101	Labyrinth der Qual
+102	Geheimer Spalt
+103	Kometenwiese
+105	Forsthaus
+106	Wassermühle
+107	Warenhaus
+108	Katzenstube
+109	Tannenwaldrand
+110	Flussbergwerk -1
+111	Flussbergwerk -2
+112	Flussbergwerk -3
+113	Erdtunnel-1
+114	Erdtunnel-2
+115	Erdtunnel-3
+116	Waldgrund
+117	Waldgrund
+118	Untergrundpfad
+119	Kalter Tunnel
+120	Felsenklippe
+121	Felsenschlucht
+122	Ahornwaldrand
+123	Seli-Lusha
+124	Seli-Lusha -1
+125	Seli-Lusha -2
+126	Seli-Lusha -3
+127	Seli-Lusha -4
+128	Seli-Lusha -5
+130	Zitadelle
+131	Zitadelle
+132	Westl. Frostland
+133	Östl. Frostland
+134	Bitoren-Tundra
+135	Shares Schlucht
+136	Morcos' Thron
+137	Lortenwald
+138	Kluft d. Finsternis
+139	Ozean des Radikun
+140	Calvinas' Nest
+141	Kristallhöhle
+142	Kristallaltar
+145	Port Alveus-Platz
+146	Port Alveus-Markt
+147	Marktplatz
+148	Schiff
+149	Schiff
+150	Land der Toten
+151	Nördliche Eiswüste
+152	Nördliche Eiswüste
+153	Unbekanntes Land
+154	Caligors Reich
+170	Wüstenhafen Mortaz
+171	Hafenumgebung
+172	Neils Lagerumfeld
+173	Neils Lager
+174	Händlerlager Ost
+175	Melkis Lagerumfeld
+176	Melkis Lager
+177	Akamurlager
+178	Nordwüste
+179	Vulkanpforte
+180	Händlerlager West
+181	Kerus Lagerumfeld
+182	Kerus Lager
+183	GartonsLagerumfeld
+184	Tempelpfad
+185	Tempelplatz
+186	Umfeld des Chaos
+187	Gartons Lager
+188	Verlorene Wüste
+189	Wüstenadlerstadt
+190	Zone des Chaos
+191	Asterinnenhof
+192	Asterzentrum
+193	Räuberinnenhof
+194	Räuberzentrum
+195	Rashidinnenhof
+196	Rashidzentrum
+197	Räuberlagerumfeld
+198	Wüstenräuberlager
+199	Astertempel
+200	Schatzsucherlager
+201	Akamurquartier
+205	Kertos' Fänge
+206	Ostpfad
+207	Westpfad
+208	Valakus' Klauen
+209	Phönixschwingen
+210	Linke Schwinge
+211	Rechte Schwinge
+212	Katols Straße
+219	Valakus' Versteck
+223	Valakus' Höhle
+224	Valakus' Weg
+225	Grenigasplatz
+226	Lavapfad
+227	Pfad des Phönix
+228	Cylloan
+229	Himmelstor 1
+230	Himmelstor 2
+231	Himmelstor 3
+232	Himmelstor 4
+233	Höllentor 1
+234	Höllentor 2
+235	Höllentor 3
+236	Höllentor 4
+237	Himmelsruine 1
+238	Himmelsruine 2
+239	Höllenruine 1
+240	Höllenruine 2
+241	Ancelloans Wille 1
+242	Ancelloans Wille 2
+243	Ancelloans Wille 3
+244	Ancelloans Wille 4
+245	Ancelloans Wille 5
+246	Ancelloans Wille 6
+247	Flugschiff ? Cylloan
+248	Flugschiff
+249	Tempelplatz
+260	Midgard
+261	Tart Hapendam
+262	Oase
+263	Jotunnheim
+264	Cuarry-Bank
+400	Cuarry-Bibliothek
+401	Nebelwald
+402	Erinnerungshöhle
+403	Erinnerungshöhle
+404	Erinnerungshöhle
+405	Erinnerungshöhle
+406	Nebenweg
+407	Dichter Wald
+408	Wasserfallpfad
+409	Verborgenes Land
+410	Tempelfront
+411	Mystischer Tempel
+412	Höhle am Kliff
+413	Wolfshöhle
+2000	Marktplatz
+2004	Instant Combat
+2005	Icebreaker
+2006	Individuelle Arena
+2007	Familienarena
+2110	Geheime Hühnerfarm
+2500	Tor d. Totenklage
+2501	Platz der Abenteuer
+2502	Saal d. Totenklage
+2503	Hasis Hinterhof
+2507	Horrordorf
+2508	Finsterer Pfad
+2509	Fuchsbau
+2510	Jellyeingang
+2511	Platz der Abenteuer
+2512	Jellyplatz
+2515	Hexenhäuschen
+2520	Ginsengfarmeingang
+2521	Platz der Abenteuer
+2522	Ginsengfarm
+2530	Spinnenhöhlenpfad
+2531	Platz der Abenteuer
+2532	Spinnenhöhle
+2536	Grenigasplatz
+2537	Lavapfad
+2538	Pfad des Phönix
+2539	Grenigastempel
+2540	Pfad zum Altar
+2540	Pfad zum Altar
+2541	Platz der Abenteuer
+2541	Platz der Abenteuer
+2542	Altar der Qualen
+2542	Altar der Qualen
+2544	Piratenschiff
+2545	unter Deck
+2546	Vorderdeck
+2547	Nestumgebung
+2548	Weg zum Nest
+2549	Brutstätte
+2550	Hühnerfarmpfad
+2551	Hühnerfarm
+2552	Brutstätte
+2553	Kertos' Höhle
+2554	Kertos' Weg
+2555	Kertos' Versteck
+2556	Valakus' Höhle
+2557	Valakus' Weg
+2558	Valakus' Versteck
+2560	Vollmonddach
+2561	Namajus Versteck
+2566	Gemütlicher Garten
+2567	Drachenhöhlenpfad
+2570	Grasslinwiese
+2580	Verschneiter Weg
+2583	Jacks Versteck
+2586	Hochzeitspavillon
+2587	Wassergrotte
+2590	Geheimpfad
+2591	Räuberkeller
+2592	Räuberzentrum
+2592	Räuberaltar
+2606	Tempelplatz
+2607	Tempelplatz
+2608	Weg zum Tempelplatz
+2609	Weg zum Tempelplatz
+2610	Schatzkammer
+2611	In Schloss Aria
+2612	In Schloss Aria
+2613	Vergessener Turm
+2614	Vergessen. Turm 1
+2615	Vergessen. Turm 2
+2616	Vergessen. Turm 3
+2617	Vergessen. Turm 4
+2618	Vergessen. Turm 5
+2619	Vergessen. Turm 6
+2620	Vergessen. Turm 7
+2623	Eingang Aufg. Kat.
+2624	Gegend Aufg. Kat.
+2625	Aufg. Katakombe
+2627	Besetzte Hühnerfarm
+4000	Heldenmine
+4100	Plateau der Tat
+4200	Plateau der Zeit
+4300	Plateau der Leere
+4315	Fremde Welt
+4400	Heldentempel
+4500	Wurzeln der Fernon
+15000	Missionskarte
+20001	Miniland
