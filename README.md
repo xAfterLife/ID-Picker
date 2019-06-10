@@ -1,3 +1,2 @@
-![1](http://i.epvpimg.com/a9pldab.png)
-![2](http://i.epvpimg.com/DPGodab.png)
-![3](http://i.epvpimg.com/TzUXcab.png)
+![1](https://media.discordapp.net/attachments/366217631151423498/587759804135768125/unknown.png?width=727&height=466)
+
